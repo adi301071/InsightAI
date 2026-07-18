@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_Name,Region,City,Product,Category,Quantity,Unit_Price,Sales,Cost,Profit,Payment_Method
+ORD-00001,2024-06-05,Priya Singh,West,Mumbai,Pen Set,Stationery,2,250,500,390.83,109.17,Debit Card
+ORD-00002,2024-12-23,Neha Gupta,South,Bangalore,Pen Set,Stationery,2,250,500,371.86,128.14,Credit Card
+ORD-00003,2024-12-13,Amit Verma,West,Pune,Laptop,Electronics,2,60000,120000,78645.21,41354.79,Debit Card
+ORD-00004,2024-05-10,Neha Gupta,East,Bhubaneswar,Smartphone,Electronics,4,25000,100000,66633.63,33366.37,Net Banking
+ORD-00005,2025-08-14,Karan Mehta,West,Pune,Laptop,Electronics,5,60000,300000,202988.83,97011.17,Credit Card
+ORD-00006,2025-02-26,Karan Mehta,West,Ahmedabad,Headphones,Electronics,3,3000,9000,7134.61,1865.39,Cash
+ORD-00007,2024-06-02,Neha Gupta,East,Bhubaneswar,Desk,Furniture,1,18000,18000,10585.83,7414.17,UPI
+ORD-00008,2024-11-19,Anjali Patel,East,Bhubaneswar,Headphones,Electronics,5,3000,15000,8872.95,6127.05,Net Banking
+ORD-00009,2025-06-22,Pooja Yadav,North,Chandigarh,Headphones,Electronics,1,3000,3000,2200.84,799.16,Debit Card
+ORD-00010,2025-04-22,Rahul Sharma,North,Jaipur,Backpack,Accessories,3,1800,5400,3192.58,2207.42,UPI
+ORD-00011,2024-05-16,Amit Verma,West,Mumbai,Backpack,Accessories,2,1800,3600,2529.4,1070.6,Credit Card
+ORD-00012,2025-04-07,Pooja Yadav,West,Mumbai,Office Chair,Furniture,5,12000,60000,35501.57,24498.43,UPI
+ORD-00013,2024-07-29,Sneha Joshi,North,Chandigarh,Headphones,Electronics,1,3000,3000,1839.96,1160.04,Debit Card
+ORD-00014,2024-09-06,Sneha Joshi,South,Chennai,Smartphone,Electronics,3,25000,75000,47588.1,27411.9,Credit Card
+ORD-00015,2024-11-14,Pooja Yadav,West,Mumbai,Pen Set,Stationery,4,250,1000,572.86,427.14,Credit Card
+ORD-00016,2025-08-28,Anjali Patel,North,Delhi,Pen Set,Stationery,5,250,1250,908.39,341.61,Net Banking
+ORD-00017,2024-02-20,Vikas Kumar,East,Bhubaneswar,Smartphone,Electronics,1,25000,25000,15832.73,9167.27,Net Banking
+ORD-00018,2024-08-25,Amit Verma,South,Chennai,Notebook,Stationery,2,150,300,234.79,65.21,Cash
+ORD-00019,2024-08-10,Neha Gupta,North,Chandigarh,Laptop,Electronics,3,60000,180000,100093.17,79906.83,Credit Card
+ORD-00020,2025-09-19,Pooja Yadav,West,Pune,Notebook,Stationery,4,150,600,452.76,147.24,Net Banking
+ORD-00021,2025-06-20,Rahul Sharma,East,Patna,Desk,Furniture,1,18000,18000,14340.44,3659.56,Cash
+ORD-00022,2024-11-06,Amit Verma,West,Pune,Office Chair,Furniture,2,12000,24000,18407.88,5592.12,UPI
+ORD-00023,2025-12-06,Rahul Sharma,West,Pune,Keyboard,Accessories,2,2500,5000,3887.21,1112.79,Debit Card
+ORD-00024,2025-03-29,Sneha Joshi,East,Kolkata,Laptop,Electronics,2,60000,120000,78585.42,41414.58,Credit Card
+ORD-00025,2024-04-02,Pooja Yadav,South,Chennai,Pen Set,Stationery,1,250,250,166.18,83.82,Net Banking
+ORD-00026,2024-06-02,Anjali Patel,East,Patna,Desk,Furniture,1,18000,18000,10533.21,7466.79,Net Banking
+ORD-00027,2025-07-15,Karan Mehta,North,Jaipur,Smartphone,Electronics,2,25000,50000,30874.14,19125.86,Credit Card
+ORD-00028,2024-08-25,Rahul Sharma,East,Bhubaneswar,Office Chair,Furniture,3,12000,36000,20311.04,15688.96,Credit Card
+ORD-00029,2024-11-01,Pooja Yadav,North,Chandigarh,Pen Set,Stationery,4,250,1000,618.23,381.77,Debit Card
+ORD-00030,2024-12-10,Karan Mehta,West,Ahmedabad,Mouse,Accessories,2,1200,2400,1603.8,796.2,Cash
+ORD-00031,2024-07-31,Rahul Sharma,South,Chennai,Office Chair,Furniture,3,12000,36000,21011.43,14988.57,Cash
+ORD-00032,2025-02-17,Neha Gupta,West,Pune,Laptop,Electronics,2,60000,120000,86271.77,33728.23,Debit Card
+ORD-00033,2024-01-31,Pooja Yadav,East,Bhubaneswar,Smartphone,Electronics,1,25000,25000,17241.1,7758.9,Cash
+ORD-00034,2024-03-05,Karan Mehta,East,Patna,Pen Set,Stationery,3,250,750,452.51,297.49,Credit Card
+ORD-00035,2024-08-31,Amit Verma,East,Bhubaneswar,Pen Set,Stationery,5,250,1250,931.59,318.41,Credit Card
+ORD-00036,2024-09-06,Rahul Sharma,South,Chennai,Desk,Furniture,1,18000,18000,10567.0,7433.0,Net Banking
+ORD-00037,2025-08-22,Neha Gupta,South,Bangalore,Laptop,Electronics,1,60000,60000,46791.74,13208.26,Cash
+ORD-00038,2024-03-26,Sneha Joshi,West,Pune,Pen Set,Stationery,3,250,750,561.08,188.92,Cash
+ORD-00039,2025-03-02,Rohit Tiwari,West,Ahmedabad,Notebook,Stationery,3,150,450,334.1,115.9,Debit Card
+ORD-00040,2025-02-17,Rohit Tiwari,East,Patna,Office Chair,Furniture,3,12000,36000,25429.46,10570.54,Net Banking
+ORD-00041,2025-07-17,Vikas Kumar,East,Bhubaneswar,Headphones,Electronics,2,3000,6000,4135.17,1864.83,Debit Card
+ORD-00042,2025-03-30,Anjali Patel,West,Pune,Headphones,Electronics,5,3000,15000,11394.93,3605.07,Debit Card
+ORD-00043,2025-01-16,Pooja Yadav,North,Delhi,Backpack,Accessories,2,1800,3600,2858.3,741.7,Net Banking
+ORD-00044,2024-08-15,Neha Gupta,South,Hyderabad,Pen Set,Stationery,3,250,750,440.57,309.43,Net Banking
+ORD-00045,2025-11-25,Pooja Yadav,North,Jaipur,Office Chair,Furniture,2,12000,24000,17384.83,6615.17,Credit Card
+ORD-00046,2025-10-09,Pooja Yadav,South,Bangalore,Laptop,Electronics,4,60000,240000,179518.55,60481.45,UPI
+ORD-00047,2025-09-16,Sneha Joshi,West,Ahmedabad,Backpack,Accessories,5,1800,9000,5968.65,3031.35,Net Banking
+ORD-00048,2024-12-12,Sneha Joshi,South,Bangalore,Office Chair,Furniture,2,12000,24000,13715.26,10284.74,Net Banking
+ORD-00049,2024-02-15,Priya Singh,East,Bhubaneswar,Headphones,Electronics,1,3000,3000,1693.54,1306.46,UPI
+ORD-00050,2024-01-17,Anjali Patel,West,Pune,Backpack,Accessories,3,1800,5400,3163.62,2236.38,Credit Card
+ORD-00051,2025-10-22,Anjali Patel,West,Pune,Desk,Furniture,1,18000,18000,11107.82,6892.18,UPI
+ORD-00052,2025-05-13,Priya Singh,North,Delhi,Desk,Furniture,5,18000,90000,57289.73,32710.27,Net Banking
+ORD-00053,2025-03-20,Rahul Sharma,East,Bhubaneswar,Desk,Furniture,2,18000,36000,24906.27,11093.73,Credit Card
+ORD-00054,2024-06-13,Amit Verma,East,Bhubaneswar,Laptop,Electronics,3,60000,180000,139445.38,40554.62,Net Banking
+ORD-00055,2025-08-16,Anjali Patel,South,Bangalore,Backpack,Accessories,1,1800,1800,1420.26,379.74,Debit Card
+ORD-00056,2024-08-12,Anjali Patel,West,Pune,Pen Set,Stationery,1,250,250,197.32,52.68,Debit Card
+ORD-00057,2024-09-13,Rohit Tiwari,North,Jaipur,Office Chair,Furniture,1,12000,12000,6689.15,5310.85,Debit Card
+ORD-00058,2024-11-08,Karan Mehta,South,Hyderabad,Pen Set,Stationery,2,250,500,318.88,181.12,Credit Card
+ORD-00059,2025-11-15,Karan Mehta,East,Bhubaneswar,Laptop,Electronics,4,60000,240000,178118.65,61881.35,Debit Card
+ORD-00060,2025-12-01,Pooja Yadav,North,Chandigarh,Pen Set,Stationery,5,250,1250,953.55,296.45,Credit Card
+ORD-00061,2025-06-25,Karan Mehta,West,Mumbai,Mouse,Accessories,4,1200,4800,3826.65,973.35,UPI
+ORD-00062,2024-07-26,Rahul Sharma,South,Hyderabad,Backpack,Accessories,4,1800,7200,4155.84,3044.16,Net Banking
+ORD-00063,2025-10-22,Vikas Kumar,North,Jaipur,Mouse,Accessories,1,1200,1200,688.35,511.65,UPI
+ORD-00064,2024-12-08,Pooja Yadav,East,Patna,Notebook,Stationery,4,150,600,455.29,144.71,Debit Card
+ORD-00065,2025-01-18,Rahul Sharma,East,Kolkata,Backpack,Accessories,3,1800,5400,3805.06,1594.94,UPI
+ORD-00066,2025-01-02,Sneha Joshi,North,Chandigarh,Smartphone,Electronics,2,25000,50000,39118.89,10881.11,Debit Card
+ORD-00067,2025-10-08,Karan Mehta,North,Jaipur,Mouse,Accessories,4,1200,4800,3505.2,1294.8,Debit Card
+ORD-00068,2025-09-14,Pooja Yadav,West,Mumbai,Smartphone,Electronics,4,25000,100000,68911.51,31088.49,Debit Card
+ORD-00069,2025-12-25,Anjali Patel,East,Bhubaneswar,Pen Set,Stationery,2,250,500,392.41,107.59,Cash
+ORD-00070,2025-07-26,Sneha Joshi,East,Kolkata,Pen Set,Stationery,2,250,500,318.19,181.81,Debit Card
+ORD-00071,2024-06-05,Sneha Joshi,West,Pune,Keyboard,Accessories,5,2500,12500,6971.52,5528.48,Cash
+ORD-00072,2025-01-03,Rahul Sharma,South,Chennai,Keyboard,Accessories,2,2500,5000,2905.16,2094.84,Credit Card
+ORD-00073,2024-07-26,Rahul Sharma,West,Mumbai,Office Chair,Furniture,2,12000,24000,15572.92,8427.08,Credit Card
+ORD-00074,2024-09-04,Priya Singh,South,Chennai,Notebook,Stationery,5,150,750,533.84,216.16,UPI
+ORD-00075,2024-05-14,Pooja Yadav,East,Kolkata,Keyboard,Accessories,4,2500,10000,6168.29,3831.71,UPI
+ORD-00076,2025-09-11,Rohit Tiwari,North,Jaipur,Smartphone,Electronics,1,25000,25000,19610.18,5389.82,Net Banking
+ORD-00077,2025-05-29,Vikas Kumar,West,Mumbai,Headphones,Electronics,2,3000,6000,4051.34,1948.66,Net Banking
+ORD-00078,2025-02-21,Priya Singh,East,Kolkata,Office Chair,Furniture,4,12000,48000,38077.7,9922.3,Cash
+ORD-00079,2024-06-05,Vikas Kumar,North,Delhi,Keyboard,Accessories,1,2500,2500,1703.17,796.83,Cash
+ORD-00080,2024-03-13,Rohit Tiwari,East,Patna,Office Chair,Furniture,4,12000,48000,27437.55,20562.45,Credit Card
+ORD-00081,2024-09-04,Pooja Yadav,North,Jaipur,Laptop,Electronics,5,60000,300000,235471.12,64528.88,UPI
+ORD-00082,2025-10-08,Karan Mehta,East,Bhubaneswar,Mouse,Accessories,1,1200,1200,674.0,526.0,Cash
+ORD-00083,2025-11-10,Rohit Tiwari,North,Chandigarh,Smartphone,Electronics,4,25000,100000,78622.34,21377.66,Net Banking
+ORD-00084,2024-01-26,Anjali Patel,South,Chennai,Backpack,Accessories,1,1800,1800,1226.47,573.53,Debit Card
+ORD-00085,2025-04-27,Rahul Sharma,South,Bangalore,Pen Set,Stationery,1,250,250,184.34,65.66,Debit Card
+ORD-00086,2025-11-24,Sneha Joshi,West,Ahmedabad,Office Chair,Furniture,5,12000,60000,36990.84,23009.16,Debit Card
+ORD-00087,2024-02-07,Karan Mehta,South,Hyderabad,Pen Set,Stationery,1,250,250,160.16,89.84,Cash
+ORD-00088,2024-09-12,Vikas Kumar,South,Bangalore,Smartphone,Electronics,2,25000,50000,31319.44,18680.56,Debit Card
+ORD-00089,2024-09-25,Karan Mehta,North,Chandigarh,Keyboard,Accessories,2,2500,5000,2953.77,2046.23,Cash
+ORD-00090,2025-05-29,Pooja Yadav,South,Bangalore,Mouse,Accessories,4,1200,4800,3386.1,1413.9,Credit Card
+ORD-00091,2025-08-31,Rohit Tiwari,West,Ahmedabad,Backpack,Accessories,5,1800,9000,6991.14,2008.86,Debit Card
+ORD-00092,2025-10-16,Vikas Kumar,East,Bhubaneswar,Office Chair,Furniture,5,12000,60000,39865.57,20134.43,Credit Card
+ORD-00093,2025-08-27,Amit Verma,East,Bhubaneswar,Keyboard,Accessories,2,2500,5000,3237.99,1762.01,Cash
+ORD-00094,2024-06-05,Rohit Tiwari,East,Patna,Office Chair,Furniture,4,12000,48000,28070.93,19929.07,UPI
+ORD-00095,2024-06-06,Karan Mehta,South,Hyderabad,Desk,Furniture,2,18000,36000,26570.43,9429.57,Net Banking
+ORD-00096,2024-04-11,Rahul Sharma,South,Bangalore,Mouse,Accessories,4,1200,4800,3106.65,1693.35,Debit Card
+ORD-00097,2025-06-24,Karan Mehta,North,Jaipur,Laptop,Electronics,5,60000,300000,221154.87,78845.13,Cash
+ORD-00098,2024-11-24,Neha Gupta,West,Pune,Mouse,Accessories,4,1200,4800,3048.1,1751.9,Debit Card
+ORD-00099,2024-08-05,Karan Mehta,East,Kolkata,Smartphone,Electronics,2,25000,50000,31430.84,18569.16,Cash
+ORD-00100,2024-02-04,Vikas Kumar,West,Mumbai,Smartphone,Electronics,2,25000,50000,34997.23,15002.77,Debit Card
+ORD-00101,2024-12-30,Priya Singh,West,Ahmedabad,Mouse,Accessories,5,1200,6000,4210.54,1789.46,Cash
+ORD-00102,2025-05-12,Sneha Joshi,West,Ahmedabad,Keyboard,Accessories,5,2500,12500,8131.92,4368.08,UPI
+ORD-00103,2024-04-12,Priya Singh,West,Mumbai,Backpack,Accessories,4,1800,7200,5459.78,1740.22,UPI
+ORD-00104,2024-02-24,Vikas Kumar,East,Kolkata,Desk,Furniture,1,18000,18000,13594.82,4405.18,Cash
+ORD-00105,2025-12-12,Priya Singh,North,Chandigarh,Notebook,Stationery,3,150,450,277.59,172.41,Cash
+ORD-00106,2024-09-20,Sneha Joshi,East,Bhubaneswar,Mouse,Accessories,2,1200,2400,1682.16,717.84,Cash
+ORD-00107,2024-07-14,Rohit Tiwari,West,Mumbai,Desk,Furniture,4,18000,72000,39984.44,32015.56,Cash
+ORD-00108,2025-05-17,Sneha Joshi,East,Patna,Backpack,Accessories,2,1800,3600,2096.47,1503.53,UPI
+ORD-00109,2025-05-23,Rohit Tiwari,North,Chandigarh,Laptop,Electronics,2,60000,120000,74516.61,45483.39,Cash
+ORD-00110,2024-11-19,Vikas Kumar,East,Patna,Keyboard,Accessories,1,2500,2500,1737.49,762.51,UPI
+ORD-00111,2025-08-01,Rohit Tiwari,East,Bhubaneswar,Desk,Furniture,5,18000,90000,54867.4,35132.6,Net Banking
+ORD-00112,2024-10-10,Neha Gupta,East,Bhubaneswar,Backpack,Accessories,4,1800,7200,5397.13,1802.87,Cash
+ORD-00113,2024-10-23,Vikas Kumar,West,Ahmedabad,Keyboard,Accessories,5,2500,12500,7932.52,4567.48,Debit Card
+ORD-00114,2025-07-17,Anjali Patel,North,Delhi,Keyboard,Accessories,2,2500,5000,2823.31,2176.69,UPI
+ORD-00115,2025-10-29,Karan Mehta,South,Chennai,Mouse,Accessories,1,1200,1200,764.78,435.22,Debit Card
+ORD-00116,2025-01-14,Rohit Tiwari,North,Chandigarh,Notebook,Stationery,2,150,300,190.57,109.43,Credit Card
+ORD-00117,2025-09-30,Anjali Patel,South,Bangalore,Mouse,Accessories,2,1200,2400,1634.01,765.99,Debit Card
+ORD-00118,2024-09-29,Neha Gupta,South,Hyderabad,Desk,Furniture,1,18000,18000,13451.39,4548.61,Cash
+ORD-00119,2024-10-23,Priya Singh,East,Bhubaneswar,Keyboard,Accessories,4,2500,10000,7534.06,2465.94,Credit Card
+ORD-00120,2025-12-13,Rohit Tiwari,East,Bhubaneswar,Keyboard,Accessories,4,2500,10000,6206.17,3793.83,UPI
+ORD-00121,2025-10-20,Karan Mehta,West,Pune,Mouse,Accessories,1,1200,1200,742.0,458.0,UPI
+ORD-00122,2025-07-03,Priya Singh,East,Bhubaneswar,Notebook,Stationery,2,150,300,191.88,108.12,Debit Card
+ORD-00123,2025-08-05,Priya Singh,North,Jaipur,Office Chair,Furniture,1,12000,12000,7882.79,4117.21,Cash
+ORD-00124,2024-03-05,Karan Mehta,West,Mumbai,Keyboard,Accessories,4,2500,10000,6390.54,3609.46,Net Banking
+ORD-00125,2024-01-02,Neha Gupta,North,Jaipur,Headphones,Electronics,2,3000,6000,3615.85,2384.15,Debit Card
+ORD-00126,2025-02-13,Anjali Patel,South,Hyderabad,Notebook,Stationery,1,150,150,99.88,50.12,Debit Card
+ORD-00127,2024-01-02,Pooja Yadav,West,Pune,Office Chair,Furniture,4,12000,48000,34466.42,13533.58,Net Banking
+ORD-00128,2025-06-26,Karan Mehta,West,Mumbai,Mouse,Accessories,5,1200,6000,4109.18,1890.82,Debit Card
+ORD-00129,2025-02-02,Rahul Sharma,West,Ahmedabad,Office Chair,Furniture,3,12000,36000,20196.12,15803.88,Cash
+ORD-00130,2024-07-23,Vikas Kumar,West,Mumbai,Pen Set,Stationery,5,250,1250,761.88,488.12,Debit Card
+ORD-00131,2024-06-27,Neha Gupta,West,Mumbai,Headphones,Electronics,3,3000,9000,7145.71,1854.29,Net Banking
+ORD-00132,2025-08-05,Rohit Tiwari,East,Patna,Keyboard,Accessories,1,2500,2500,1968.66,531.34,Credit Card
+ORD-00133,2025-05-05,Amit Verma,West,Mumbai,Mouse,Accessories,5,1200,6000,3945.94,2054.06,Debit Card
+ORD-00134,2025-01-08,Rohit Tiwari,North,Chandigarh,Laptop,Electronics,1,60000,60000,34348.74,25651.26,Net Banking
+ORD-00135,2024-02-04,Karan Mehta,East,Bhubaneswar,Smartphone,Electronics,5,25000,125000,85330.85,39669.15,Cash
+ORD-00136,2025-04-06,Vikas Kumar,South,Hyderabad,Notebook,Stationery,3,150,450,292.19,157.81,Net Banking
+ORD-00137,2025-05-15,Neha Gupta,South,Hyderabad,Office Chair,Furniture,2,12000,24000,13276.93,10723.07,Cash
+ORD-00138,2024-11-27,Pooja Yadav,North,Jaipur,Smartphone,Electronics,5,25000,125000,76338.32,48661.68,Credit Card
+ORD-00139,2024-01-12,Priya Singh,West,Mumbai,Smartphone,Electronics,1,25000,25000,15672.24,9327.76,UPI
+ORD-00140,2024-02-04,Priya Singh,West,Pune,Pen Set,Stationery,2,250,500,287.29,212.71,Debit Card
+ORD-00141,2025-06-25,Amit Verma,South,Hyderabad,Desk,Furniture,1,18000,18000,11211.87,6788.13,UPI
+ORD-00142,2025-05-03,Karan Mehta,North,Delhi,Laptop,Electronics,3,60000,180000,135130.19,44869.81,UPI
+ORD-00143,2024-12-06,Pooja Yadav,South,Hyderabad,Pen Set,Stationery,2,250,500,295.01,204.99,Cash
+ORD-00144,2025-05-19,Sneha Joshi,East,Patna,Headphones,Electronics,3,3000,9000,5941.01,3058.99,Cash
+ORD-00145,2025-04-30,Rohit Tiwari,South,Hyderabad,Office Chair,Furniture,3,12000,36000,26848.61,9151.39,Net Banking
+ORD-00146,2024-03-15,Amit Verma,West,Mumbai,Keyboard,Accessories,5,2500,12500,8203.34,4296.66,Credit Card
+ORD-00147,2024-01-06,Anjali Patel,West,Mumbai,Desk,Furniture,3,18000,54000,37958.64,16041.36,Debit Card
+ORD-00148,2024-10-04,Sneha Joshi,North,Delhi,Smartphone,Electronics,2,25000,50000,31841.16,18158.84,Credit Card
+ORD-00149,2025-05-28,Anjali Patel,South,Bangalore,Desk,Furniture,2,18000,36000,20211.01,15788.99,Debit Card
+ORD-00150,2025-01-05,Neha Gupta,South,Bangalore,Headphones,Electronics,2,3000,6000,3998.84,2001.16,Debit Card
+ORD-00151,2024-08-31,Rahul Sharma,East,Bhubaneswar,Laptop,Electronics,1,60000,60000,38396.42,21603.58,Net Banking
+ORD-00152,2024-09-11,Anjali Patel,North,Delhi,Desk,Furniture,5,18000,90000,59910.53,30089.47,UPI
+ORD-00153,2025-07-13,Priya Singh,West,Pune,Keyboard,Accessories,3,2500,7500,4202.77,3297.23,UPI
+ORD-00154,2024-10-31,Amit Verma,South,Bangalore,Mouse,Accessories,5,1200,6000,4517.82,1482.18,Debit Card
+ORD-00155,2025-10-12,Vikas Kumar,East,Bhubaneswar,Notebook,Stationery,2,150,300,219.93,80.07,Net Banking
+ORD-00156,2025-04-27,Karan Mehta,South,Chennai,Desk,Furniture,4,18000,72000,48079.31,23920.69,Debit Card
+ORD-00157,2025-07-21,Rohit Tiwari,West,Pune,Headphones,Electronics,3,3000,9000,6714.47,2285.53,UPI
+ORD-00158,2024-12-29,Vikas Kumar,South,Bangalore,Laptop,Electronics,4,60000,240000,181728.78,58271.22,UPI
+ORD-00159,2024-09-18,Amit Verma,South,Hyderabad,Smartphone,Electronics,4,25000,100000,60168.34,39831.66,UPI
+ORD-00160,2024-07-07,Amit Verma,West,Mumbai,Pen Set,Stationery,3,250,750,533.35,216.65,Debit Card
+ORD-00161,2025-11-07,Vikas Kumar,South,Chennai,Backpack,Accessories,1,1800,1800,1264.29,535.71,Net Banking
+ORD-00162,2025-12-07,Vikas Kumar,North,Chandigarh,Desk,Furniture,1,18000,18000,12126.58,5873.42,Cash
+ORD-00163,2024-02-20,Rohit Tiwari,West,Ahmedabad,Notebook,Stationery,4,150,600,450.35,149.65,Debit Card
+ORD-00164,2025-02-06,Rohit Tiwari,East,Patna,Desk,Furniture,4,18000,72000,57502.34,14497.66,Credit Card
+ORD-00165,2024-05-17,Neha Gupta,West,Pune,Pen Set,Stationery,1,250,250,163.61,86.39,Debit Card
+ORD-00166,2024-09-13,Rohit Tiwari,South,Hyderabad,Laptop,Electronics,3,60000,180000,106783.48,73216.52,Net Banking
+ORD-00167,2025-04-29,Rahul Sharma,North,Delhi,Laptop,Electronics,5,60000,300000,217835.54,82164.46,Net Banking
+ORD-00168,2024-04-25,Priya Singh,West,Mumbai,Keyboard,Accessories,1,2500,2500,1437.45,1062.55,Net Banking
+ORD-00169,2024-11-30,Neha Gupta,South,Bangalore,Laptop,Electronics,3,60000,180000,125092.24,54907.76,Cash
+ORD-00170,2024-11-24,Amit Verma,North,Delhi,Office Chair,Furniture,2,12000,24000,13709.54,10290.46,Cash
+ORD-00171,2025-02-18,Vikas Kumar,South,Hyderabad,Keyboard,Accessories,4,2500,10000,5821.51,4178.49,UPI
+ORD-00172,2025-06-30,Rahul Sharma,East,Kolkata,Pen Set,Stationery,3,250,750,476.49,273.51,Credit Card
+ORD-00173,2025-09-03,Amit Verma,South,Chennai,Laptop,Electronics,1,60000,60000,37014.57,22985.43,Debit Card
+ORD-00174,2024-06-29,Vikas Kumar,North,Delhi,Pen Set,Stationery,3,250,750,545.36,204.64,Net Banking
+ORD-00175,2025-02-02,Vikas Kumar,South,Bangalore,Desk,Furniture,2,18000,36000,19924.44,16075.56,Cash
+ORD-00176,2025-11-11,Sneha Joshi,West,Mumbai,Smartphone,Electronics,5,25000,125000,91726.64,33273.36,Debit Card
+ORD-00177,2024-04-21,Priya Singh,North,Delhi,Office Chair,Furniture,3,12000,36000,19828.65,16171.35,UPI
+ORD-00178,2025-03-07,Vikas Kumar,South,Hyderabad,Desk,Furniture,3,18000,54000,38834.51,15165.49,Net Banking
+ORD-00179,2024-12-04,Neha Gupta,North,Delhi,Smartphone,Electronics,2,25000,50000,28025.08,21974.92,Credit Card
+ORD-00180,2025-05-25,Pooja Yadav,West,Mumbai,Office Chair,Furniture,5,12000,60000,45915.02,14084.98,Debit Card
+ORD-00181,2024-01-07,Neha Gupta,North,Chandigarh,Desk,Furniture,4,18000,72000,56322.83,15677.17,UPI
+ORD-00182,2024-05-18,Rahul Sharma,South,Hyderabad,Desk,Furniture,5,18000,90000,61801.52,28198.48,UPI
+ORD-00183,2024-09-18,Pooja Yadav,East,Patna,Office Chair,Furniture,2,12000,24000,15581.87,8418.13,UPI
+ORD-00184,2025-01-10,Rohit Tiwari,West,Pune,Backpack,Accessories,5,1800,9000,6262.13,2737.87,UPI
+ORD-00185,2024-05-28,Rahul Sharma,West,Mumbai,Smartphone,Electronics,5,25000,125000,84648.19,40351.81,Cash
+ORD-00186,2025-05-13,Rohit Tiwari,North,Jaipur,Pen Set,Stationery,5,250,1250,968.58,281.42,Cash
+ORD-00187,2024-06-04,Anjali Patel,South,Bangalore,Pen Set,Stationery,2,250,500,293.62,206.38,Debit Card
+ORD-00188,2024-12-29,Priya Singh,West,Pune,Pen Set,Stationery,2,250,500,289.65,210.35,Debit Card
+ORD-00189,2025-05-08,Amit Verma,West,Pune,Keyboard,Accessories,5,2500,12500,8576.77,3923.23,Debit Card
+ORD-00190,2025-09-02,Neha Gupta,South,Chennai,Backpack,Accessories,4,1800,7200,4962.78,2237.22,Debit Card
+ORD-00191,2024-07-03,Rohit Tiwari,South,Chennai,Notebook,Stationery,3,150,450,312.0,138.0,Cash
+ORD-00192,2024-09-27,Rohit Tiwari,North,Chandigarh,Office Chair,Furniture,5,12000,60000,37523.59,22476.41,Cash
+ORD-00193,2024-12-15,Vikas Kumar,West,Pune,Smartphone,Electronics,1,25000,25000,16747.57,8252.43,Net Banking
+ORD-00194,2025-12-20,Vikas Kumar,South,Hyderabad,Backpack,Accessories,2,1800,3600,2025.55,1574.45,Net Banking
+ORD-00195,2025-10-23,Karan Mehta,West,Ahmedabad,Desk,Furniture,3,18000,54000,41067.23,12932.77,Cash
+ORD-00196,2025-07-25,Amit Verma,North,Chandigarh,Office Chair,Furniture,1,12000,12000,6860.72,5139.28,Net Banking
+ORD-00197,2025-03-06,Anjali Patel,North,Chandigarh,Pen Set,Stationery,1,250,250,197.98,52.02,Debit Card
+ORD-00198,2024-08-27,Rohit Tiwari,South,Chennai,Notebook,Stationery,5,150,750,495.58,254.42,Net Banking
+ORD-00199,2025-08-13,Vikas Kumar,North,Jaipur,Laptop,Electronics,1,60000,60000,47074.57,12925.43,Credit Card
+ORD-00200,2025-05-24,Neha Gupta,South,Chennai,Office Chair,Furniture,5,12000,60000,47392.8,12607.2,UPI
+ORD-00201,2025-04-07,Priya Singh,West,Mumbai,Mouse,Accessories,4,1200,4800,3032.99,1767.01,Credit Card
+ORD-00202,2025-05-13,Karan Mehta,West,Mumbai,Mouse,Accessories,5,1200,6000,3589.24,2410.76,Credit Card
+ORD-00203,2024-08-14,Rohit Tiwari,West,Mumbai,Backpack,Accessories,4,1800,7200,5529.77,1670.23,Debit Card
+ORD-00204,2025-06-21,Karan Mehta,East,Patna,Office Chair,Furniture,3,12000,36000,23196.1,12803.9,Net Banking
+ORD-00205,2024-08-22,Priya Singh,East,Kolkata,Headphones,Electronics,1,3000,3000,1939.34,1060.66,UPI
+ORD-00206,2024-06-11,Priya Singh,South,Hyderabad,Pen Set,Stationery,5,250,1250,920.14,329.86,Cash
+ORD-00207,2024-08-29,Anjali Patel,North,Delhi,Mouse,Accessories,3,1200,3600,2408.85,1191.15,UPI
+ORD-00208,2025-09-16,Rahul Sharma,West,Pune,Keyboard,Accessories,5,2500,12500,9039.29,3460.71,Cash
+ORD-00209,2025-03-17,Sneha Joshi,North,Delhi,Laptop,Electronics,5,60000,300000,238357.67,61642.33,Cash
+ORD-00210,2024-12-09,Karan Mehta,East,Bhubaneswar,Laptop,Electronics,2,60000,120000,81687.2,38312.8,Debit Card
+ORD-00211,2024-08-10,Vikas Kumar,North,Delhi,Smartphone,Electronics,1,25000,25000,16346.26,8653.74,Credit Card
+ORD-00212,2024-05-17,Amit Verma,South,Hyderabad,Office Chair,Furniture,2,12000,24000,13451.0,10549.0,Net Banking
+ORD-00213,2024-11-23,Pooja Yadav,East,Bhubaneswar,Backpack,Accessories,4,1800,7200,4523.4,2676.6,Cash
+ORD-00214,2024-03-29,Rohit Tiwari,North,Delhi,Mouse,Accessories,5,1200,6000,4531.29,1468.71,Cash
+ORD-00215,2024-10-13,Vikas Kumar,North,Jaipur,Laptop,Electronics,5,60000,300000,232449.29,67550.71,Cash
+ORD-00216,2024-01-09,Pooja Yadav,West,Mumbai,Notebook,Stationery,1,150,150,117.56,32.44,Credit Card
+ORD-00217,2024-06-21,Pooja Yadav,West,Pune,Notebook,Stationery,3,150,450,340.48,109.52,Net Banking
+ORD-00218,2025-05-23,Vikas Kumar,North,Chandigarh,Laptop,Electronics,3,60000,180000,120184.72,59815.28,UPI
+ORD-00219,2025-04-16,Sneha Joshi,West,Mumbai,Desk,Furniture,3,18000,54000,41237.62,12762.38,Credit Card
+ORD-00220,2025-12-13,Neha Gupta,South,Hyderabad,Laptop,Electronics,5,60000,300000,221569.95,78430.05,Credit Card
+ORD-00221,2025-06-24,Karan Mehta,East,Kolkata,Mouse,Accessories,4,1200,4800,3587.52,1212.48,Cash
+ORD-00222,2025-09-09,Priya Singh,South,Bangalore,Laptop,Electronics,4,60000,240000,138823.52,101176.48,Credit Card
+ORD-00223,2025-05-31,Anjali Patel,East,Patna,Office Chair,Furniture,5,12000,60000,40520.5,19479.5,Credit Card
+ORD-00224,2024-05-23,Neha Gupta,North,Delhi,Office Chair,Furniture,1,12000,12000,8780.53,3219.47,Cash
+ORD-00225,2024-08-10,Priya Singh,East,Patna,Keyboard,Accessories,1,2500,2500,1924.13,575.87,UPI
+ORD-00226,2025-06-26,Rahul Sharma,East,Bhubaneswar,Keyboard,Accessories,3,2500,7500,4274.68,3225.32,Net Banking
+ORD-00227,2024-05-10,Karan Mehta,East,Patna,Backpack,Accessories,1,1800,1800,1275.26,524.74,Debit Card
+ORD-00228,2024-01-12,Pooja Yadav,West,Mumbai,Office Chair,Furniture,5,12000,60000,39245.26,20754.74,UPI
+ORD-00229,2025-07-06,Karan Mehta,North,Jaipur,Smartphone,Electronics,5,25000,125000,90363.26,34636.74,Debit Card
+ORD-00230,2025-11-24,Amit Verma,East,Kolkata,Headphones,Electronics,5,3000,15000,11853.45,3146.55,Debit Card
+ORD-00231,2025-10-10,Amit Verma,North,Jaipur,Pen Set,Stationery,1,250,250,152.68,97.32,Debit Card
+ORD-00232,2025-02-13,Pooja Yadav,South,Bangalore,Pen Set,Stationery,4,250,1000,722.97,277.03,UPI
+ORD-00233,2025-04-08,Anjali Patel,West,Mumbai,Pen Set,Stationery,2,250,500,321.37,178.63,Debit Card
+ORD-00234,2025-08-25,Amit Verma,East,Patna,Headphones,Electronics,2,3000,6000,3930.77,2069.23,Net Banking
+ORD-00235,2024-11-19,Priya Singh,East,Bhubaneswar,Desk,Furniture,3,18000,54000,35420.65,18579.35,Net Banking
+ORD-00236,2024-08-10,Amit Verma,North,Chandigarh,Pen Set,Stationery,3,250,750,510.49,239.51,UPI
+ORD-00237,2025-05-27,Rahul Sharma,North,Jaipur,Office Chair,Furniture,5,12000,60000,35458.18,24541.82,Debit Card
+ORD-00238,2025-09-08,Sneha Joshi,East,Patna,Keyboard,Accessories,3,2500,7500,4679.53,2820.47,Net Banking
+ORD-00239,2025-04-25,Rohit Tiwari,North,Jaipur,Pen Set,Stationery,5,250,1250,763.56,486.44,Debit Card
+ORD-00240,2024-10-30,Karan Mehta,East,Bhubaneswar,Backpack,Accessories,5,1800,9000,5359.84,3640.16,UPI
+ORD-00241,2025-05-06,Amit Verma,South,Hyderabad,Backpack,Accessories,5,1800,9000,5947.67,3052.33,Credit Card
+ORD-00242,2025-07-01,Priya Singh,South,Bangalore,Laptop,Electronics,5,60000,300000,218427.9,81572.1,Credit Card
+ORD-00243,2025-02-14,Priya Singh,West,Ahmedabad,Headphones,Electronics,2,3000,6000,4410.11,1589.89,Net Banking
+ORD-00244,2024-12-15,Rahul Sharma,West,Ahmedabad,Notebook,Stationery,1,150,150,111.4,38.6,Debit Card
+ORD-00245,2024-10-15,Rohit Tiwari,North,Jaipur,Keyboard,Accessories,5,2500,12500,7120.63,5379.37,Net Banking
+ORD-00246,2024-12-04,Priya Singh,West,Mumbai,Keyboard,Accessories,5,2500,12500,7342.83,5157.17,Net Banking
+ORD-00247,2024-04-08,Rahul Sharma,South,Chennai,Keyboard,Accessories,5,2500,12500,8511.99,3988.01,Debit Card
+ORD-00248,2024-12-23,Rohit Tiwari,South,Hyderabad,Desk,Furniture,1,18000,18000,11659.27,6340.73,UPI
+ORD-00249,2025-01-16,Karan Mehta,North,Delhi,Laptop,Electronics,3,60000,180000,139384.76,40615.24,Net Banking
+ORD-00250,2025-06-26,Pooja Yadav,South,Hyderabad,Laptop,Electronics,1,60000,60000,35598.68,24401.32,Net Banking
+ORD-00251,2024-02-09,Priya Singh,East,Kolkata,Notebook,Stationery,3,150,450,276.55,173.45,Debit Card
+ORD-00252,2024-03-01,Pooja Yadav,North,Chandigarh,Keyboard,Accessories,4,2500,10000,7568.17,2431.83,Net Banking
+ORD-00253,2024-08-31,Sneha Joshi,West,Ahmedabad,Laptop,Electronics,3,60000,180000,104144.31,75855.69,Debit Card
+ORD-00254,2025-02-16,Karan Mehta,North,Delhi,Headphones,Electronics,2,3000,6000,4534.02,1465.98,Debit Card
+ORD-00255,2025-05-15,Pooja Yadav,West,Pune,Desk,Furniture,1,18000,18000,13029.32,4970.68,Credit Card
+ORD-00256,2025-12-16,Amit Verma,South,Hyderabad,Desk,Furniture,1,18000,18000,14366.44,3633.56,Cash
+ORD-00257,2024-06-10,Rohit Tiwari,South,Bangalore,Keyboard,Accessories,1,2500,2500,1745.6,754.4,Net Banking
+ORD-00258,2025-04-24,Neha Gupta,West,Mumbai,Keyboard,Accessories,2,2500,5000,3249.59,1750.41,Debit Card
+ORD-00259,2025-10-19,Rohit Tiwari,West,Pune,Notebook,Stationery,1,150,150,102.87,47.13,UPI
+ORD-00260,2024-01-28,Rahul Sharma,South,Bangalore,Desk,Furniture,1,18000,18000,10134.36,7865.64,Net Banking
+ORD-00261,2024-08-31,Karan Mehta,East,Bhubaneswar,Keyboard,Accessories,4,2500,10000,5664.26,4335.74,UPI
+ORD-00262,2024-02-28,Rohit Tiwari,West,Ahmedabad,Pen Set,Stationery,2,250,500,384.21,115.79,UPI
+ORD-00263,2025-03-04,Vikas Kumar,East,Bhubaneswar,Laptop,Electronics,2,60000,120000,86490.35,33509.65,UPI
+ORD-00264,2025-11-30,Rohit Tiwari,East,Patna,Smartphone,Electronics,4,25000,100000,78422.95,21577.05,Net Banking
+ORD-00265,2025-09-12,Priya Singh,North,Delhi,Laptop,Electronics,3,60000,180000,100620.13,79379.87,Credit Card
+ORD-00266,2024-10-31,Priya Singh,East,Kolkata,Pen Set,Stationery,2,250,500,286.92,213.08,Debit Card
+ORD-00267,2024-01-21,Anjali Patel,East,Patna,Laptop,Electronics,4,60000,240000,189574.59,50425.41,Cash
+ORD-00268,2025-07-27,Amit Verma,West,Mumbai,Notebook,Stationery,1,150,150,117.95,32.05,Cash
+ORD-00269,2024-12-20,Amit Verma,South,Chennai,Pen Set,Stationery,2,250,500,383.87,116.13,Net Banking
+ORD-00270,2024-08-21,Priya Singh,East,Bhubaneswar,Desk,Furniture,4,18000,72000,42871.87,29128.13,Cash
+ORD-00271,2024-05-11,Sneha Joshi,West,Ahmedabad,Office Chair,Furniture,5,12000,60000,43327.6,16672.4,Net Banking
+ORD-00272,2025-03-11,Anjali Patel,North,Chandigarh,Smartphone,Electronics,1,25000,25000,14034.7,10965.3,Cash
+ORD-00273,2025-05-26,Vikas Kumar,South,Bangalore,Backpack,Accessories,3,1800,5400,4304.62,1095.38,UPI
+ORD-00274,2025-07-12,Amit Verma,East,Kolkata,Keyboard,Accessories,5,2500,12500,9038.29,3461.71,UPI
+ORD-00275,2024-06-06,Neha Gupta,North,Delhi,Keyboard,Accessories,4,2500,10000,5931.59,4068.41,UPI
+ORD-00276,2025-12-12,Rahul Sharma,South,Hyderabad,Mouse,Accessories,2,1200,2400,1770.23,629.77,Net Banking
+ORD-00277,2025-09-26,Vikas Kumar,South,Bangalore,Pen Set,Stationery,5,250,1250,936.77,313.23,Cash
+ORD-00278,2024-11-18,Rohit Tiwari,West,Pune,Office Chair,Furniture,5,12000,60000,41771.18,18228.82,UPI
+ORD-00279,2025-03-31,Sneha Joshi,East,Patna,Headphones,Electronics,2,3000,6000,3801.59,2198.41,Credit Card
+ORD-00280,2024-02-08,Neha Gupta,South,Chennai,Keyboard,Accessories,1,2500,2500,1457.51,1042.49,Cash
+ORD-00281,2024-12-08,Neha Gupta,East,Bhubaneswar,Notebook,Stationery,1,150,150,83.61,66.39,Debit Card
+ORD-00282,2024-08-18,Karan Mehta,South,Bangalore,Notebook,Stationery,4,150,600,463.72,136.28,Credit Card
+ORD-00283,2025-06-07,Neha Gupta,East,Bhubaneswar,Backpack,Accessories,3,1800,5400,3361.0,2039.0,Credit Card
+ORD-00284,2025-09-12,Amit Verma,West,Pune,Backpack,Accessories,1,1800,1800,1144.99,655.01,UPI
+ORD-00285,2025-10-15,Priya Singh,North,Jaipur,Laptop,Electronics,4,60000,240000,150056.14,89943.86,Net Banking
+ORD-00286,2024-09-10,Rahul Sharma,North,Delhi,Mouse,Accessories,1,1200,1200,684.69,515.31,Debit Card
+ORD-00287,2025-01-27,Rohit Tiwari,West,Pune,Mouse,Accessories,2,1200,2400,1551.77,848.23,Cash
+ORD-00288,2024-07-18,Anjali Patel,North,Chandigarh,Mouse,Accessories,1,1200,1200,734.13,465.87,Debit Card
+ORD-00289,2024-09-03,Pooja Yadav,East,Patna,Keyboard,Accessories,4,2500,10000,5791.1,4208.9,Net Banking
+ORD-00290,2024-04-26,Karan Mehta,North,Jaipur,Laptop,Electronics,3,60000,180000,116968.05,63031.95,UPI
+ORD-00291,2025-01-24,Rahul Sharma,West,Mumbai,Laptop,Electronics,2,60000,120000,70311.46,49688.54,Cash
+ORD-00292,2024-12-16,Pooja Yadav,East,Patna,Desk,Furniture,4,18000,72000,44174.8,27825.2,Credit Card
+ORD-00293,2025-07-03,Vikas Kumar,East,Bhubaneswar,Mouse,Accessories,2,1200,2400,1478.37,921.63,Debit Card
+ORD-00294,2024-01-11,Anjali Patel,West,Ahmedabad,Pen Set,Stationery,5,250,1250,879.47,370.53,Cash
+ORD-00295,2024-10-24,Rohit Tiwari,West,Mumbai,Headphones,Electronics,1,3000,3000,1903.76,1096.24,Net Banking
+ORD-00296,2025-12-21,Neha Gupta,West,Mumbai,Backpack,Accessories,4,1800,7200,5022.79,2177.21,Debit Card
+ORD-00297,2025-11-08,Amit Verma,North,Jaipur,Mouse,Accessories,3,1200,3600,2184.59,1415.41,Credit Card
+ORD-00298,2025-05-19,Neha Gupta,East,Kolkata,Smartphone,Electronics,4,25000,100000,63898.34,36101.66,UPI
+ORD-00299,2025-05-07,Rohit Tiwari,East,Kolkata,Notebook,Stationery,2,150,300,182.28,117.72,UPI
+ORD-00300,2025-09-06,Priya Singh,West,Ahmedabad,Headphones,Electronics,3,3000,9000,5700.29,3299.71,Credit Card
+ORD-00301,2025-02-21,Karan Mehta,South,Chennai,Smartphone,Electronics,2,25000,50000,34515.93,15484.07,Cash
+ORD-00302,2024-08-30,Vikas Kumar,West,Mumbai,Office Chair,Furniture,1,12000,12000,8582.49,3417.51,Debit Card
+ORD-00303,2024-08-14,Rahul Sharma,West,Pune,Mouse,Accessories,3,1200,3600,2333.23,1266.77,Cash
+ORD-00304,2025-04-04,Anjali Patel,North,Chandigarh,Office Chair,Furniture,1,12000,12000,8399.3,3600.7,Credit Card
+ORD-00305,2025-12-09,Neha Gupta,East,Patna,Laptop,Electronics,5,60000,300000,227844.67,72155.33,UPI
+ORD-00306,2025-04-03,Rahul Sharma,South,Chennai,Pen Set,Stationery,1,250,250,178.35,71.65,Credit Card
+ORD-00307,2025-02-10,Vikas Kumar,South,Chennai,Pen Set,Stationery,1,250,250,157.8,92.2,UPI
+ORD-00308,2024-11-23,Anjali Patel,North,Delhi,Laptop,Electronics,3,60000,180000,121365.99,58634.01,Net Banking
+ORD-00309,2024-10-11,Rohit Tiwari,West,Mumbai,Headphones,Electronics,3,3000,9000,5118.35,3881.65,Cash
+ORD-00310,2025-07-03,Neha Gupta,East,Patna,Mouse,Accessories,2,1200,2400,1760.43,639.57,Debit Card
+ORD-00311,2024-09-25,Amit Verma,North,Chandigarh,Pen Set,Stationery,5,250,1250,691.09,558.91,Credit Card
+ORD-00312,2024-03-17,Vikas Kumar,West,Mumbai,Backpack,Accessories,1,1800,1800,1163.59,636.41,Credit Card
+ORD-00313,2024-12-08,Priya Singh,East,Patna,Notebook,Stationery,1,150,150,88.98,61.02,Cash
+ORD-00314,2025-05-02,Priya Singh,North,Chandigarh,Desk,Furniture,1,18000,18000,12110.97,5889.03,Credit Card
+ORD-00315,2025-02-07,Rohit Tiwari,East,Bhubaneswar,Keyboard,Accessories,5,2500,12500,8694.3,3805.7,UPI
+ORD-00316,2025-12-31,Amit Verma,South,Bangalore,Laptop,Electronics,2,60000,120000,86973.13,33026.87,Net Banking
+ORD-00317,2025-02-13,Rahul Sharma,South,Chennai,Pen Set,Stationery,3,250,750,571.74,178.26,UPI
+ORD-00318,2025-12-16,Amit Verma,West,Ahmedabad,Desk,Furniture,5,18000,90000,51108.87,38891.13,Credit Card
+ORD-00319,2024-10-17,Vikas Kumar,South,Chennai,Notebook,Stationery,4,150,600,475.93,124.07,Cash
+ORD-00320,2024-02-03,Pooja Yadav,East,Bhubaneswar,Mouse,Accessories,1,1200,1200,764.41,435.59,Net Banking
+ORD-00321,2024-07-09,Rahul Sharma,South,Hyderabad,Pen Set,Stationery,2,250,500,311.04,188.96,UPI
+ORD-00322,2025-03-25,Neha Gupta,East,Kolkata,Smartphone,Electronics,5,25000,125000,85700.2,39299.8,Credit Card
+ORD-00323,2024-11-03,Pooja Yadav,East,Bhubaneswar,Keyboard,Accessories,5,2500,12500,7241.25,5258.75,Net Banking
+ORD-00324,2024-06-23,Rahul Sharma,West,Ahmedabad,Desk,Furniture,5,18000,90000,70349.27,19650.73,Debit Card
+ORD-00325,2025-08-19,Pooja Yadav,East,Bhubaneswar,Notebook,Stationery,5,150,750,455.28,294.72,Credit Card
+ORD-00326,2024-05-29,Amit Verma,West,Ahmedabad,Mouse,Accessories,4,1200,4800,2826.67,1973.33,UPI
+ORD-00327,2024-12-20,Vikas Kumar,North,Chandigarh,Laptop,Electronics,4,60000,240000,136864.2,103135.8,Cash
+ORD-00328,2024-12-24,Rahul Sharma,North,Jaipur,Pen Set,Stationery,4,250,1000,633.39,366.61,Cash
+ORD-00329,2025-06-16,Amit Verma,South,Chennai,Smartphone,Electronics,4,25000,100000,56450.83,43549.17,Credit Card
+ORD-00330,2025-02-10,Vikas Kumar,South,Bangalore,Office Chair,Furniture,5,12000,60000,42303.07,17696.93,Net Banking
+ORD-00331,2025-07-29,Sneha Joshi,East,Bhubaneswar,Backpack,Accessories,5,1800,9000,6778.92,2221.08,Debit Card
+ORD-00332,2025-04-12,Vikas Kumar,East,Bhubaneswar,Notebook,Stationery,4,150,600,451.62,148.38,Credit Card
+ORD-00333,2024-10-29,Neha Gupta,East,Patna,Headphones,Electronics,5,3000,15000,10433.4,4566.6,Debit Card
+ORD-00334,2025-08-04,Karan Mehta,South,Chennai,Headphones,Electronics,2,3000,6000,4511.68,1488.32,Credit Card
+ORD-00335,2024-01-05,Rohit Tiwari,East,Patna,Office Chair,Furniture,2,12000,24000,15625.09,8374.91,Net Banking
+ORD-00336,2025-04-29,Vikas Kumar,North,Jaipur,Pen Set,Stationery,3,250,750,441.29,308.71,Debit Card
+ORD-00337,2025-05-11,Neha Gupta,West,Pune,Smartphone,Electronics,1,25000,25000,16340.86,8659.14,Debit Card
+ORD-00338,2025-07-31,Rohit Tiwari,South,Chennai,Notebook,Stationery,4,150,600,415.13,184.87,UPI
+ORD-00339,2024-01-02,Anjali Patel,South,Bangalore,Desk,Furniture,5,18000,90000,61081.77,28918.23,UPI
+ORD-00340,2024-01-21,Karan Mehta,North,Chandigarh,Pen Set,Stationery,3,250,750,481.32,268.68,Cash
+ORD-00341,2024-06-13,Anjali Patel,West,Ahmedabad,Mouse,Accessories,1,1200,1200,844.62,355.38,UPI
+ORD-00342,2024-11-30,Sneha Joshi,North,Delhi,Laptop,Electronics,5,60000,300000,233213.89,66786.11,Cash
+ORD-00343,2025-04-17,Vikas Kumar,West,Mumbai,Headphones,Electronics,5,3000,15000,10901.54,4098.46,Debit Card
+ORD-00344,2024-06-14,Anjali Patel,South,Hyderabad,Notebook,Stationery,2,150,300,172.16,127.84,Cash
+ORD-00345,2024-12-19,Anjali Patel,West,Mumbai,Laptop,Electronics,2,60000,120000,89341.18,30658.82,UPI
+ORD-00346,2025-07-29,Rahul Sharma,South,Bangalore,Office Chair,Furniture,5,12000,60000,34005.08,25994.92,UPI
+ORD-00347,2024-05-31,Rahul Sharma,West,Ahmedabad,Headphones,Electronics,3,3000,9000,5242.61,3757.39,Debit Card
+ORD-00348,2024-11-07,Vikas Kumar,North,Jaipur,Keyboard,Accessories,4,2500,10000,7064.79,2935.21,Cash
+ORD-00349,2025-12-07,Rohit Tiwari,West,Ahmedabad,Laptop,Electronics,3,60000,180000,108443.32,71556.68,Debit Card
+ORD-00350,2025-12-21,Rahul Sharma,South,Bangalore,Keyboard,Accessories,2,2500,5000,3679.34,1320.66,Net Banking
+ORD-00351,2025-03-29,Rahul Sharma,East,Kolkata,Smartphone,Electronics,1,25000,25000,14500.39,10499.61,Net Banking
+ORD-00352,2025-10-31,Neha Gupta,West,Mumbai,Smartphone,Electronics,5,25000,125000,73603.3,51396.7,Debit Card
+ORD-00353,2024-07-04,Rohit Tiwari,West,Ahmedabad,Keyboard,Accessories,3,2500,7500,5134.37,2365.63,Debit Card
+ORD-00354,2024-08-21,Rohit Tiwari,West,Pune,Laptop,Electronics,3,60000,180000,114103.21,65896.79,Cash
+ORD-00355,2024-05-19,Karan Mehta,North,Delhi,Mouse,Accessories,5,1200,6000,4341.45,1658.55,Credit Card
+ORD-00356,2025-09-28,Rohit Tiwari,North,Delhi,Desk,Furniture,3,18000,54000,35851.65,18148.35,Credit Card
+ORD-00357,2025-11-13,Neha Gupta,South,Hyderabad,Backpack,Accessories,4,1800,7200,5038.48,2161.52,Net Banking
+ORD-00358,2025-02-26,Vikas Kumar,North,Delhi,Pen Set,Stationery,5,250,1250,859.83,390.17,UPI
+ORD-00359,2025-01-29,Neha Gupta,South,Hyderabad,Smartphone,Electronics,3,25000,75000,48284.47,26715.53,Net Banking
+ORD-00360,2025-03-06,Rahul Sharma,North,Jaipur,Office Chair,Furniture,3,12000,36000,21718.86,14281.14,Net Banking
+ORD-00361,2024-06-02,Anjali Patel,West,Ahmedabad,Office Chair,Furniture,1,12000,12000,9099.73,2900.27,Credit Card
+ORD-00362,2025-04-04,Karan Mehta,East,Bhubaneswar,Laptop,Electronics,1,60000,60000,36183.8,23816.2,Net Banking
+ORD-00363,2024-08-02,Vikas Kumar,West,Ahmedabad,Notebook,Stationery,5,150,750,590.21,159.79,Cash
+ORD-00364,2025-03-04,Rahul Sharma,South,Hyderabad,Desk,Furniture,5,18000,90000,57729.35,32270.65,Net Banking
+ORD-00365,2024-09-14,Amit Verma,South,Chennai,Notebook,Stationery,2,150,300,182.11,117.89,UPI
+ORD-00366,2025-05-01,Rahul Sharma,West,Ahmedabad,Desk,Furniture,3,18000,54000,40555.88,13444.12,Credit Card
+ORD-00367,2025-09-16,Sneha Joshi,East,Bhubaneswar,Laptop,Electronics,1,60000,60000,41645.61,18354.39,Cash
+ORD-00368,2024-03-04,Amit Verma,West,Pune,Mouse,Accessories,5,1200,6000,3828.76,2171.24,Cash
+ORD-00369,2024-10-25,Sneha Joshi,East,Kolkata,Keyboard,Accessories,1,2500,2500,1880.45,619.55,Debit Card
+ORD-00370,2025-02-16,Anjali Patel,South,Chennai,Keyboard,Accessories,4,2500,10000,7133.79,2866.21,Debit Card
+ORD-00371,2025-09-06,Sneha Joshi,South,Bangalore,Mouse,Accessories,4,1200,4800,3045.57,1754.43,Cash
+ORD-00372,2024-09-04,Sneha Joshi,North,Delhi,Laptop,Electronics,4,60000,240000,136732.34,103267.66,Net Banking
+ORD-00373,2025-06-27,Pooja Yadav,East,Kolkata,Office Chair,Furniture,3,12000,36000,26727.73,9272.27,UPI
+ORD-00374,2024-11-19,Priya Singh,West,Mumbai,Headphones,Electronics,3,3000,9000,5841.06,3158.94,Cash
+ORD-00375,2025-10-23,Rohit Tiwari,East,Kolkata,Notebook,Stationery,3,150,450,302.91,147.09,Cash
+ORD-00376,2025-05-30,Rohit Tiwari,West,Mumbai,Keyboard,Accessories,4,2500,10000,7958.26,2041.74,Credit Card
+ORD-00377,2024-02-05,Sneha Joshi,North,Jaipur,Notebook,Stationery,1,150,150,88.8,61.2,Credit Card
+ORD-00378,2025-01-26,Amit Verma,South,Bangalore,Smartphone,Electronics,5,25000,125000,94439.02,30560.98,Credit Card
+ORD-00379,2025-01-10,Rohit Tiwari,West,Ahmedabad,Office Chair,Furniture,3,12000,36000,28388.08,7611.92,Credit Card
+ORD-00380,2025-06-02,Sneha Joshi,North,Delhi,Headphones,Electronics,1,3000,3000,2031.22,968.78,Cash
+ORD-00381,2025-06-11,Amit Verma,East,Kolkata,Pen Set,Stationery,5,250,1250,787.86,462.14,Debit Card
+ORD-00382,2024-08-09,Anjali Patel,South,Bangalore,Notebook,Stationery,1,150,150,96.65,53.35,Cash
+ORD-00383,2024-08-03,Priya Singh,South,Bangalore,Laptop,Electronics,4,60000,240000,143183.3,96816.7,UPI
+ORD-00384,2024-12-21,Neha Gupta,South,Hyderabad,Office Chair,Furniture,2,12000,24000,14804.54,9195.46,UPI
+ORD-00385,2025-01-27,Sneha Joshi,North,Chandigarh,Notebook,Stationery,3,150,450,326.78,123.22,Cash
+ORD-00386,2025-01-11,Sneha Joshi,North,Delhi,Desk,Furniture,4,18000,72000,45115.96,26884.04,UPI
+ORD-00387,2024-09-07,Priya Singh,North,Chandigarh,Pen Set,Stationery,4,250,1000,752.91,247.09,Credit Card
+ORD-00388,2025-09-20,Priya Singh,East,Kolkata,Headphones,Electronics,1,3000,3000,2176.31,823.69,Cash
+ORD-00389,2025-02-21,Rohit Tiwari,East,Kolkata,Desk,Furniture,5,18000,90000,53388.65,36611.35,Credit Card
+ORD-00390,2025-03-01,Anjali Patel,West,Ahmedabad,Notebook,Stationery,2,150,300,216.24,83.76,UPI
+ORD-00391,2024-10-23,Priya Singh,South,Chennai,Desk,Furniture,4,18000,72000,53208.72,18791.28,Credit Card
+ORD-00392,2024-11-16,Amit Verma,South,Hyderabad,Keyboard,Accessories,1,2500,2500,1605.77,894.23,UPI
+ORD-00393,2025-04-06,Rohit Tiwari,South,Bangalore,Office Chair,Furniture,5,12000,60000,39961.01,20038.99,Credit Card
+ORD-00394,2025-06-10,Sneha Joshi,South,Hyderabad,Pen Set,Stationery,5,250,1250,784.45,465.55,UPI
+ORD-00395,2024-07-08,Pooja Yadav,West,Ahmedabad,Backpack,Accessories,4,1800,7200,4929.86,2270.14,Debit Card
+ORD-00396,2024-11-12,Vikas Kumar,West,Mumbai,Mouse,Accessories,4,1200,4800,3245.75,1554.25,Credit Card
+ORD-00397,2025-10-08,Amit Verma,South,Chennai,Mouse,Accessories,1,1200,1200,899.83,300.17,Cash
+ORD-00398,2024-04-17,Vikas Kumar,East,Kolkata,Smartphone,Electronics,2,25000,50000,32976.61,17023.39,UPI
+ORD-00399,2024-03-06,Rahul Sharma,East,Patna,Keyboard,Accessories,2,2500,5000,2952.05,2047.95,Credit Card
+ORD-00400,2024-01-19,Karan Mehta,West,Pune,Laptop,Electronics,4,60000,240000,182122.65,57877.35,UPI
+ORD-00401,2025-05-06,Anjali Patel,South,Chennai,Desk,Furniture,5,18000,90000,66344.66,23655.34,UPI
+ORD-00402,2025-05-03,Rahul Sharma,South,Chennai,Headphones,Electronics,2,3000,6000,4523.83,1476.17,Cash
+ORD-00403,2025-01-07,Sneha Joshi,East,Bhubaneswar,Keyboard,Accessories,2,2500,5000,2866.28,2133.72,Cash
+ORD-00404,2025-05-24,Sneha Joshi,West,Pune,Mouse,Accessories,1,1200,1200,841.21,358.79,Net Banking
+ORD-00405,2025-08-16,Vikas Kumar,South,Chennai,Headphones,Electronics,2,3000,6000,4406.36,1593.64,Credit Card
+ORD-00406,2024-08-06,Rahul Sharma,West,Pune,Backpack,Accessories,1,1800,1800,1326.41,473.59,Debit Card
+ORD-00407,2025-08-23,Pooja Yadav,South,Hyderabad,Notebook,Stationery,3,150,450,340.51,109.49,Cash
+ORD-00408,2025-05-26,Vikas Kumar,East,Bhubaneswar,Laptop,Electronics,4,60000,240000,153304.0,86696.0,Cash
+ORD-00409,2025-06-22,Vikas Kumar,West,Mumbai,Backpack,Accessories,1,1800,1800,1295.15,504.85,Cash
+ORD-00410,2025-02-13,Karan Mehta,West,Ahmedabad,Laptop,Electronics,5,60000,300000,228664.96,71335.04,Cash
+ORD-00411,2024-04-30,Pooja Yadav,West,Pune,Office Chair,Furniture,1,12000,12000,7403.28,4596.72,Debit Card
+ORD-00412,2025-09-08,Vikas Kumar,South,Hyderabad,Notebook,Stationery,2,150,300,176.13,123.87,UPI
+ORD-00413,2024-09-22,Neha Gupta,North,Delhi,Mouse,Accessories,4,1200,4800,2749.71,2050.29,Credit Card
+ORD-00414,2024-02-14,Vikas Kumar,South,Bangalore,Laptop,Electronics,4,60000,240000,178632.39,61367.61,Debit Card
+ORD-00415,2024-01-31,Neha Gupta,East,Bhubaneswar,Notebook,Stationery,2,150,300,195.3,104.7,Cash
+ORD-00416,2024-09-08,Rahul Sharma,East,Bhubaneswar,Headphones,Electronics,4,3000,12000,6621.55,5378.45,Debit Card
+ORD-00417,2025-03-30,Rohit Tiwari,West,Ahmedabad,Office Chair,Furniture,1,12000,12000,7122.43,4877.57,Credit Card
+ORD-00418,2024-10-21,Rahul Sharma,East,Bhubaneswar,Notebook,Stationery,1,150,150,114.28,35.72,Credit Card
+ORD-00419,2025-05-25,Karan Mehta,East,Patna,Headphones,Electronics,2,3000,6000,3955.11,2044.89,Cash
+ORD-00420,2025-09-18,Anjali Patel,West,Ahmedabad,Desk,Furniture,1,18000,18000,10797.26,7202.74,Debit Card
+ORD-00421,2024-11-21,Priya Singh,South,Hyderabad,Office Chair,Furniture,4,12000,48000,33124.41,14875.59,Debit Card
+ORD-00422,2024-09-15,Priya Singh,East,Patna,Notebook,Stationery,2,150,300,235.73,64.27,Net Banking
+ORD-00423,2025-08-06,Amit Verma,South,Bangalore,Headphones,Electronics,1,3000,3000,1679.16,1320.84,Net Banking
+ORD-00424,2024-12-24,Karan Mehta,East,Bhubaneswar,Keyboard,Accessories,5,2500,12500,7984.45,4515.55,UPI
+ORD-00425,2024-05-26,Rahul Sharma,South,Hyderabad,Headphones,Electronics,5,3000,15000,11444.51,3555.49,Net Banking
+ORD-00426,2024-04-25,Rohit Tiwari,West,Pune,Keyboard,Accessories,5,2500,12500,9409.5,3090.5,Cash
+ORD-00427,2024-12-02,Rohit Tiwari,South,Bangalore,Pen Set,Stationery,5,250,1250,879.29,370.71,Debit Card
+ORD-00428,2025-08-01,Priya Singh,West,Mumbai,Office Chair,Furniture,5,12000,60000,41689.33,18310.67,Cash
+ORD-00429,2024-07-21,Vikas Kumar,South,Bangalore,Laptop,Electronics,3,60000,180000,118117.47,61882.53,Debit Card
+ORD-00430,2025-04-18,Anjali Patel,South,Chennai,Keyboard,Accessories,4,2500,10000,6686.76,3313.24,Net Banking
+ORD-00431,2024-12-18,Neha Gupta,South,Hyderabad,Smartphone,Electronics,2,25000,50000,31300.94,18699.06,Net Banking
+ORD-00432,2025-05-28,Amit Verma,East,Bhubaneswar,Keyboard,Accessories,5,2500,12500,7278.72,5221.28,Debit Card
+ORD-00433,2024-03-12,Neha Gupta,West,Pune,Notebook,Stationery,3,150,450,334.32,115.68,Debit Card
+ORD-00434,2025-03-29,Neha Gupta,West,Ahmedabad,Notebook,Stationery,3,150,450,303.6,146.4,Cash
+ORD-00435,2024-11-03,Priya Singh,West,Ahmedabad,Notebook,Stationery,2,150,300,205.85,94.15,UPI
+ORD-00436,2024-03-02,Amit Verma,West,Mumbai,Mouse,Accessories,1,1200,1200,714.79,485.21,Cash
+ORD-00437,2024-06-23,Karan Mehta,South,Bangalore,Notebook,Stationery,2,150,300,204.98,95.02,Cash
+ORD-00438,2024-08-18,Neha Gupta,East,Bhubaneswar,Desk,Furniture,2,18000,36000,24748.93,11251.07,Debit Card
+ORD-00439,2024-03-10,Neha Gupta,North,Delhi,Pen Set,Stationery,5,250,1250,819.31,430.69,Cash
+ORD-00440,2024-10-03,Vikas Kumar,West,Ahmedabad,Keyboard,Accessories,1,2500,2500,1399.28,1100.72,UPI
+ORD-00441,2024-04-19,Pooja Yadav,South,Bangalore,Headphones,Electronics,3,3000,9000,6191.38,2808.62,Cash
+ORD-00442,2025-10-04,Sneha Joshi,North,Chandigarh,Notebook,Stationery,2,150,300,194.85,105.15,Cash
+ORD-00443,2025-05-30,Anjali Patel,West,Pune,Mouse,Accessories,2,1200,2400,1606.0,794.0,UPI
+ORD-00444,2024-01-29,Priya Singh,West,Ahmedabad,Keyboard,Accessories,4,2500,10000,6767.79,3232.21,Debit Card
+ORD-00445,2024-11-26,Sneha Joshi,South,Bangalore,Smartphone,Electronics,2,25000,50000,29141.6,20858.4,UPI
+ORD-00446,2025-03-13,Pooja Yadav,North,Jaipur,Smartphone,Electronics,1,25000,25000,14969.9,10030.1,Net Banking
+ORD-00447,2025-11-16,Priya Singh,North,Jaipur,Office Chair,Furniture,3,12000,36000,20730.25,15269.75,Credit Card
+ORD-00448,2025-05-29,Priya Singh,East,Bhubaneswar,Headphones,Electronics,3,3000,9000,6063.97,2936.03,UPI
+ORD-00449,2024-12-10,Sneha Joshi,East,Kolkata,Notebook,Stationery,3,150,450,267.63,182.37,Cash
+ORD-00450,2025-01-31,Priya Singh,North,Chandigarh,Headphones,Electronics,5,3000,15000,10639.47,4360.53,Debit Card
+ORD-00451,2024-11-26,Vikas Kumar,East,Patna,Pen Set,Stationery,4,250,1000,751.25,248.75,UPI
+ORD-00452,2024-03-04,Priya Singh,East,Bhubaneswar,Laptop,Electronics,3,60000,180000,123697.12,56302.88,Debit Card
+ORD-00453,2024-07-20,Neha Gupta,East,Kolkata,Mouse,Accessories,2,1200,2400,1418.59,981.41,Net Banking
+ORD-00454,2024-07-17,Amit Verma,North,Chandigarh,Smartphone,Electronics,4,25000,100000,69107.45,30892.55,Debit Card
+ORD-00455,2025-04-24,Amit Verma,South,Bangalore,Smartphone,Electronics,2,25000,50000,38421.86,11578.14,Net Banking
+ORD-00456,2025-09-16,Pooja Yadav,South,Hyderabad,Keyboard,Accessories,5,2500,12500,8856.48,3643.52,UPI
+ORD-00457,2025-05-14,Rahul Sharma,West,Ahmedabad,Smartphone,Electronics,3,25000,75000,55367.61,19632.39,Cash
+ORD-00458,2024-08-10,Rahul Sharma,South,Hyderabad,Notebook,Stationery,1,150,150,89.18,60.82,Credit Card
+ORD-00459,2024-08-20,Neha Gupta,South,Chennai,Desk,Furniture,2,18000,36000,20680.61,15319.39,Debit Card
+ORD-00460,2024-04-24,Priya Singh,West,Ahmedabad,Mouse,Accessories,3,1200,3600,2216.23,1383.77,UPI
+ORD-00461,2025-04-09,Karan Mehta,East,Patna,Pen Set,Stationery,5,250,1250,946.48,303.52,UPI
+ORD-00462,2024-06-20,Sneha Joshi,East,Patna,Backpack,Accessories,1,1800,1800,1085.28,714.72,Cash
+ORD-00463,2024-07-28,Priya Singh,South,Bangalore,Notebook,Stationery,3,150,450,359.26,90.74,Net Banking
+ORD-00464,2025-02-06,Rahul Sharma,North,Chandigarh,Mouse,Accessories,4,1200,4800,3342.71,1457.29,Debit Card
+ORD-00465,2024-07-08,Karan Mehta,East,Bhubaneswar,Pen Set,Stationery,1,250,250,149.74,100.26,Credit Card
+ORD-00466,2025-09-10,Priya Singh,North,Delhi,Backpack,Accessories,2,1800,3600,2609.01,990.99,UPI
+ORD-00467,2024-05-18,Anjali Patel,West,Mumbai,Laptop,Electronics,1,60000,60000,43583.84,16416.16,Debit Card
+ORD-00468,2025-12-04,Vikas Kumar,West,Ahmedabad,Laptop,Electronics,1,60000,60000,44410.28,15589.72,Credit Card
+ORD-00469,2025-02-28,Anjali Patel,East,Patna,Office Chair,Furniture,1,12000,12000,9022.93,2977.07,Debit Card
+ORD-00470,2025-07-17,Rohit Tiwari,East,Kolkata,Notebook,Stationery,1,150,150,97.06,52.94,Credit Card
+ORD-00471,2024-08-07,Priya Singh,West,Ahmedabad,Office Chair,Furniture,3,12000,36000,26578.56,9421.44,Cash
+ORD-00472,2024-06-23,Anjali Patel,South,Hyderabad,Backpack,Accessories,1,1800,1800,1285.56,514.44,Net Banking
+ORD-00473,2024-06-13,Amit Verma,West,Ahmedabad,Pen Set,Stationery,3,250,750,572.72,177.28,Net Banking
+ORD-00474,2025-08-03,Neha Gupta,North,Delhi,Laptop,Electronics,1,60000,60000,46973.14,13026.86,Cash
+ORD-00475,2025-12-02,Vikas Kumar,West,Mumbai,Keyboard,Accessories,2,2500,5000,3148.52,1851.48,UPI
+ORD-00476,2024-11-19,Vikas Kumar,South,Chennai,Smartphone,Electronics,1,25000,25000,18846.41,6153.59,Net Banking
+ORD-00477,2024-10-11,Sneha Joshi,North,Delhi,Keyboard,Accessories,2,2500,5000,3598.58,1401.42,Credit Card
+ORD-00478,2025-01-29,Amit Verma,South,Bangalore,Notebook,Stationery,2,150,300,168.12,131.88,Net Banking
+ORD-00479,2025-08-10,Pooja Yadav,East,Kolkata,Notebook,Stationery,5,150,750,588.0,162.0,UPI
+ORD-00480,2024-07-01,Anjali Patel,East,Kolkata,Backpack,Accessories,4,1800,7200,5645.48,1554.52,Credit Card
+ORD-00481,2024-04-18,Amit Verma,South,Chennai,Mouse,Accessories,4,1200,4800,2915.93,1884.07,UPI
+ORD-00482,2024-07-20,Priya Singh,South,Hyderabad,Laptop,Electronics,4,60000,240000,151175.18,88824.82,Debit Card
+ORD-00483,2025-10-30,Rohit Tiwari,South,Chennai,Keyboard,Accessories,4,2500,10000,7009.06,2990.94,Net Banking
+ORD-00484,2024-04-25,Vikas Kumar,South,Chennai,Pen Set,Stationery,5,250,1250,749.2,500.8,Credit Card
+ORD-00485,2025-10-16,Sneha Joshi,East,Bhubaneswar,Smartphone,Electronics,5,25000,125000,84893.34,40106.66,Debit Card
+ORD-00486,2025-01-04,Rahul Sharma,East,Kolkata,Backpack,Accessories,5,1800,9000,6364.44,2635.56,Net Banking
+ORD-00487,2024-04-19,Sneha Joshi,South,Hyderabad,Office Chair,Furniture,1,12000,12000,7306.74,4693.26,Cash
+ORD-00488,2024-01-01,Vikas Kumar,West,Mumbai,Laptop,Electronics,2,60000,120000,93909.15,26090.85,Credit Card
+ORD-00489,2025-12-08,Pooja Yadav,North,Chandigarh,Headphones,Electronics,3,3000,9000,6554.74,2445.26,Cash
+ORD-00490,2025-12-27,Anjali Patel,East,Bhubaneswar,Notebook,Stationery,3,150,450,353.2,96.8,Cash
+ORD-00491,2024-01-02,Rohit Tiwari,West,Mumbai,Pen Set,Stationery,5,250,1250,928.65,321.35,Debit Card
+ORD-00492,2024-09-26,Amit Verma,West,Mumbai,Desk,Furniture,5,18000,90000,68612.61,21387.39,Credit Card
+ORD-00493,2025-01-12,Neha Gupta,North,Jaipur,Keyboard,Accessories,4,2500,10000,7791.52,2208.48,Net Banking
+ORD-00494,2024-04-05,Rohit Tiwari,North,Delhi,Smartphone,Electronics,4,25000,100000,67612.68,32387.32,Net Banking
+ORD-00495,2024-08-23,Pooja Yadav,North,Chandigarh,Backpack,Accessories,1,1800,1800,1388.3,411.7,Cash
+ORD-00496,2025-02-14,Rohit Tiwari,East,Kolkata,Backpack,Accessories,4,1800,7200,5535.13,1664.87,Credit Card
+ORD-00497,2024-09-11,Rahul Sharma,East,Bhubaneswar,Desk,Furniture,3,18000,54000,41307.53,12692.47,Net Banking
+ORD-00498,2024-04-19,Vikas Kumar,South,Bangalore,Laptop,Electronics,4,60000,240000,153641.34,86358.66,Net Banking
+ORD-00499,2025-11-29,Rohit Tiwari,East,Kolkata,Desk,Furniture,4,18000,72000,40202.93,31797.07,Debit Card
+ORD-00500,2025-03-30,Anjali Patel,South,Hyderabad,Desk,Furniture,3,18000,54000,42747.29,11252.71,Cash
+ORD-00501,2025-01-05,Karan Mehta,East,Patna,Laptop,Electronics,2,60000,120000,91396.65,28603.35,Credit Card
+ORD-00502,2025-07-17,Neha Gupta,South,Chennai,Smartphone,Electronics,4,25000,100000,73871.32,26128.68,Debit Card
+ORD-00503,2025-03-28,Neha Gupta,East,Patna,Keyboard,Accessories,2,2500,5000,3229.94,1770.06,Debit Card
+ORD-00504,2025-04-13,Pooja Yadav,North,Jaipur,Mouse,Accessories,1,1200,1200,841.1,358.9,Cash
+ORD-00505,2025-01-02,Karan Mehta,West,Ahmedabad,Backpack,Accessories,4,1800,7200,5475.4,1724.6,Credit Card
+ORD-00506,2024-02-03,Neha Gupta,South,Bangalore,Keyboard,Accessories,2,2500,5000,3088.02,1911.98,Debit Card
+ORD-00507,2024-09-01,Sneha Joshi,West,Pune,Smartphone,Electronics,3,25000,75000,58791.38,16208.62,Credit Card
+ORD-00508,2024-05-26,Vikas Kumar,West,Mumbai,Smartphone,Electronics,1,25000,25000,14472.35,10527.65,Net Banking
+ORD-00509,2024-05-10,Sneha Joshi,West,Mumbai,Notebook,Stationery,5,150,750,547.34,202.66,Net Banking
+ORD-00510,2024-03-06,Anjali Patel,East,Bhubaneswar,Desk,Furniture,4,18000,72000,42374.05,29625.95,Debit Card
+ORD-00511,2025-11-05,Pooja Yadav,East,Bhubaneswar,Mouse,Accessories,2,1200,2400,1915.02,484.98,Debit Card
+ORD-00512,2025-03-16,Pooja Yadav,South,Hyderabad,Office Chair,Furniture,2,12000,24000,18017.64,5982.36,Cash
+ORD-00513,2025-06-30,Anjali Patel,East,Kolkata,Smartphone,Electronics,3,25000,75000,58272.6,16727.4,Debit Card
+ORD-00514,2025-08-17,Amit Verma,South,Bangalore,Mouse,Accessories,1,1200,1200,794.97,405.03,Cash
+ORD-00515,2025-03-22,Pooja Yadav,South,Hyderabad,Office Chair,Furniture,2,12000,24000,14939.19,9060.81,Net Banking
+ORD-00516,2025-11-22,Rohit Tiwari,North,Chandigarh,Pen Set,Stationery,2,250,500,344.97,155.03,UPI
+ORD-00517,2025-11-07,Rahul Sharma,East,Kolkata,Office Chair,Furniture,2,12000,24000,15187.42,8812.58,Debit Card
+ORD-00518,2024-02-13,Pooja Yadav,South,Bangalore,Office Chair,Furniture,5,12000,60000,42195.6,17804.4,Cash
+ORD-00519,2025-04-17,Sneha Joshi,South,Chennai,Headphones,Electronics,1,3000,3000,1659.27,1340.73,Net Banking
+ORD-00520,2025-07-07,Sneha Joshi,South,Bangalore,Office Chair,Furniture,4,12000,48000,35005.08,12994.92,Cash
+ORD-00521,2024-01-08,Rohit Tiwari,North,Delhi,Pen Set,Stationery,3,250,750,584.28,165.72,UPI
+ORD-00522,2025-06-22,Anjali Patel,East,Kolkata,Headphones,Electronics,5,3000,15000,9156.42,5843.58,Debit Card
+ORD-00523,2024-08-31,Priya Singh,East,Patna,Desk,Furniture,3,18000,54000,31154.79,22845.21,Net Banking
+ORD-00524,2025-12-15,Amit Verma,East,Patna,Pen Set,Stationery,2,250,500,355.33,144.67,Credit Card
+ORD-00525,2024-06-23,Anjali Patel,South,Hyderabad,Office Chair,Furniture,1,12000,12000,8058.98,3941.02,Net Banking
+ORD-00526,2025-12-11,Rohit Tiwari,North,Jaipur,Smartphone,Electronics,1,25000,25000,16404.0,8596.0,Cash
+ORD-00527,2024-01-02,Sneha Joshi,East,Patna,Mouse,Accessories,3,1200,3600,2621.21,978.79,Credit Card
+ORD-00528,2024-01-06,Sneha Joshi,West,Pune,Keyboard,Accessories,5,2500,12500,9370.31,3129.69,Cash
+ORD-00529,2025-05-24,Karan Mehta,North,Delhi,Pen Set,Stationery,1,250,250,139.68,110.32,Net Banking
+ORD-00530,2025-05-02,Pooja Yadav,East,Kolkata,Laptop,Electronics,3,60000,180000,121166.94,58833.06,Debit Card
+ORD-00531,2024-12-14,Rahul Sharma,East,Kolkata,Pen Set,Stationery,2,250,500,345.39,154.61,Cash
+ORD-00532,2025-10-15,Rahul Sharma,East,Patna,Headphones,Electronics,3,3000,9000,6420.33,2579.67,UPI
+ORD-00533,2025-04-27,Priya Singh,West,Mumbai,Headphones,Electronics,4,3000,12000,9597.8,2402.2,Debit Card
+ORD-00534,2024-10-06,Anjali Patel,East,Patna,Keyboard,Accessories,5,2500,12500,9337.97,3162.03,Net Banking
+ORD-00535,2025-01-12,Neha Gupta,North,Jaipur,Mouse,Accessories,4,1200,4800,3127.72,1672.28,Credit Card
+ORD-00536,2024-10-06,Anjali Patel,East,Kolkata,Mouse,Accessories,2,1200,2400,1632.02,767.98,Debit Card
+ORD-00537,2025-04-09,Priya Singh,East,Bhubaneswar,Laptop,Electronics,3,60000,180000,119975.17,60024.83,Net Banking
+ORD-00538,2024-01-17,Rahul Sharma,West,Ahmedabad,Office Chair,Furniture,3,12000,36000,25149.26,10850.74,Debit Card
+ORD-00539,2024-11-18,Sneha Joshi,West,Mumbai,Pen Set,Stationery,3,250,750,472.4,277.6,Debit Card
+ORD-00540,2025-11-26,Karan Mehta,West,Ahmedabad,Mouse,Accessories,4,1200,4800,3427.64,1372.36,Credit Card
+ORD-00541,2024-12-14,Pooja Yadav,North,Delhi,Keyboard,Accessories,4,2500,10000,6545.02,3454.98,UPI
+ORD-00542,2024-05-05,Vikas Kumar,West,Mumbai,Pen Set,Stationery,3,250,750,503.66,246.34,Cash
+ORD-00543,2024-08-14,Sneha Joshi,North,Chandigarh,Smartphone,Electronics,5,25000,125000,91827.05,33172.95,Credit Card
+ORD-00544,2024-09-26,Priya Singh,South,Hyderabad,Desk,Furniture,5,18000,90000,55052.87,34947.13,UPI
+ORD-00545,2025-03-13,Pooja Yadav,West,Mumbai,Mouse,Accessories,2,1200,2400,1405.41,994.59,Debit Card
+ORD-00546,2025-09-03,Anjali Patel,East,Patna,Headphones,Electronics,4,3000,12000,8016.69,3983.31,Debit Card
+ORD-00547,2024-06-17,Amit Verma,West,Ahmedabad,Headphones,Electronics,1,3000,3000,1913.67,1086.33,UPI
+ORD-00548,2024-04-28,Pooja Yadav,West,Ahmedabad,Headphones,Electronics,3,3000,9000,7098.43,1901.57,Debit Card
+ORD-00549,2025-01-12,Pooja Yadav,West,Mumbai,Smartphone,Electronics,2,25000,50000,34405.25,15594.75,Cash
+ORD-00550,2025-10-22,Neha Gupta,East,Bhubaneswar,Laptop,Electronics,4,60000,240000,178520.96,61479.04,Cash
+ORD-00551,2025-07-27,Karan Mehta,West,Pune,Laptop,Electronics,5,60000,300000,186997.7,113002.3,Credit Card
+ORD-00552,2024-08-08,Neha Gupta,South,Chennai,Laptop,Electronics,1,60000,60000,34363.19,25636.81,Net Banking
+ORD-00553,2025-04-09,Pooja Yadav,West,Pune,Pen Set,Stationery,1,250,250,179.95,70.05,UPI
+ORD-00554,2025-05-05,Amit Verma,South,Bangalore,Headphones,Electronics,5,3000,15000,8917.01,6082.99,Debit Card
+ORD-00555,2024-06-13,Vikas Kumar,North,Delhi,Keyboard,Accessories,3,2500,7500,4774.64,2725.36,UPI
+ORD-00556,2025-07-03,Rohit Tiwari,North,Chandigarh,Mouse,Accessories,2,1200,2400,1560.79,839.21,UPI
+ORD-00557,2025-02-24,Rahul Sharma,West,Pune,Pen Set,Stationery,2,250,500,284.8,215.2,UPI
+ORD-00558,2025-02-02,Vikas Kumar,South,Bangalore,Office Chair,Furniture,5,12000,60000,37913.62,22086.38,UPI
+ORD-00559,2025-01-28,Rohit Tiwari,East,Bhubaneswar,Notebook,Stationery,3,150,450,337.75,112.25,Cash
+ORD-00560,2025-06-30,Sneha Joshi,West,Ahmedabad,Keyboard,Accessories,1,2500,2500,1980.53,519.47,Credit Card
+ORD-00561,2024-03-26,Rahul Sharma,South,Bangalore,Office Chair,Furniture,1,12000,12000,6715.64,5284.36,Net Banking
+ORD-00562,2024-12-27,Karan Mehta,West,Ahmedabad,Office Chair,Furniture,5,12000,60000,38646.15,21353.85,Cash
+ORD-00563,2025-01-07,Vikas Kumar,North,Chandigarh,Keyboard,Accessories,1,2500,2500,1736.43,763.57,Credit Card
+ORD-00564,2024-06-25,Anjali Patel,North,Jaipur,Headphones,Electronics,4,3000,12000,6774.02,5225.98,Cash
+ORD-00565,2024-05-01,Vikas Kumar,East,Kolkata,Smartphone,Electronics,3,25000,75000,47390.23,27609.77,Credit Card
+ORD-00566,2024-03-26,Pooja Yadav,East,Patna,Keyboard,Accessories,2,2500,5000,3028.72,1971.28,Debit Card
+ORD-00567,2024-11-08,Anjali Patel,East,Patna,Smartphone,Electronics,3,25000,75000,51886.7,23113.3,Credit Card
+ORD-00568,2024-12-24,Priya Singh,South,Bangalore,Pen Set,Stationery,2,250,500,299.48,200.52,Credit Card
+ORD-00569,2024-07-19,Sneha Joshi,North,Delhi,Headphones,Electronics,1,3000,3000,2146.58,853.42,UPI
+ORD-00570,2025-01-05,Karan Mehta,East,Bhubaneswar,Backpack,Accessories,4,1800,7200,4158.02,3041.98,Net Banking
+ORD-00571,2024-07-03,Priya Singh,West,Pune,Notebook,Stationery,4,150,600,364.93,235.07,Debit Card
+ORD-00572,2024-07-07,Sneha Joshi,West,Pune,Laptop,Electronics,5,60000,300000,177882.1,122117.9,Cash
+ORD-00573,2025-11-18,Rohit Tiwari,North,Chandigarh,Notebook,Stationery,3,150,450,271.59,178.41,Debit Card
+ORD-00574,2024-05-25,Vikas Kumar,West,Mumbai,Mouse,Accessories,3,1200,3600,2643.8,956.2,Credit Card
+ORD-00575,2024-01-02,Rohit Tiwari,West,Ahmedabad,Pen Set,Stationery,1,250,250,168.95,81.05,UPI
+ORD-00576,2025-01-27,Vikas Kumar,East,Kolkata,Pen Set,Stationery,5,250,1250,709.12,540.88,Credit Card
+ORD-00577,2025-12-28,Anjali Patel,North,Jaipur,Mouse,Accessories,4,1200,4800,3775.82,1024.18,Debit Card
+ORD-00578,2024-03-11,Sneha Joshi,West,Mumbai,Backpack,Accessories,5,1800,9000,6001.8,2998.2,Net Banking
+ORD-00579,2025-08-03,Anjali Patel,North,Delhi,Backpack,Accessories,5,1800,9000,6375.68,2624.32,UPI
+ORD-00580,2025-12-16,Vikas Kumar,South,Chennai,Keyboard,Accessories,4,2500,10000,7495.26,2504.74,Debit Card
+ORD-00581,2024-03-14,Rohit Tiwari,West,Mumbai,Pen Set,Stationery,3,250,750,547.36,202.64,Net Banking
+ORD-00582,2025-01-29,Karan Mehta,East,Bhubaneswar,Notebook,Stationery,4,150,600,412.48,187.52,Cash
+ORD-00583,2024-04-22,Priya Singh,East,Kolkata,Laptop,Electronics,3,60000,180000,132189.84,47810.16,UPI
+ORD-00584,2025-04-13,Sneha Joshi,East,Bhubaneswar,Notebook,Stationery,1,150,150,100.7,49.3,Debit Card
+ORD-00585,2024-12-06,Anjali Patel,South,Bangalore,Smartphone,Electronics,1,25000,25000,15357.46,9642.54,Net Banking
+ORD-00586,2025-12-21,Neha Gupta,North,Chandigarh,Smartphone,Electronics,2,25000,50000,34386.83,15613.17,Net Banking
+ORD-00587,2024-07-07,Vikas Kumar,East,Patna,Backpack,Accessories,4,1800,7200,5016.97,2183.03,Debit Card
+ORD-00588,2024-08-18,Rohit Tiwari,North,Jaipur,Notebook,Stationery,5,150,750,448.45,301.55,Net Banking
+ORD-00589,2024-06-01,Karan Mehta,West,Mumbai,Laptop,Electronics,4,60000,240000,151640.74,88359.26,UPI
+ORD-00590,2025-08-30,Rahul Sharma,North,Jaipur,Keyboard,Accessories,5,2500,12500,9143.79,3356.21,Debit Card
+ORD-00591,2024-09-06,Sneha Joshi,West,Mumbai,Office Chair,Furniture,3,12000,36000,20376.15,15623.85,Net Banking
+ORD-00592,2024-04-26,Sneha Joshi,North,Chandigarh,Pen Set,Stationery,2,250,500,275.13,224.87,Net Banking
+ORD-00593,2025-07-25,Pooja Yadav,West,Mumbai,Backpack,Accessories,5,1800,9000,5479.43,3520.57,Debit Card
+ORD-00594,2025-11-13,Rohit Tiwari,South,Bangalore,Mouse,Accessories,3,1200,3600,2114.06,1485.94,Credit Card
+ORD-00595,2024-03-03,Neha Gupta,East,Patna,Headphones,Electronics,1,3000,3000,2372.75,627.25,Cash
+ORD-00596,2025-07-09,Neha Gupta,West,Ahmedabad,Desk,Furniture,5,18000,90000,55059.65,34940.35,UPI
+ORD-00597,2024-12-17,Karan Mehta,North,Chandigarh,Backpack,Accessories,4,1800,7200,5303.5,1896.5,UPI
+ORD-00598,2025-02-25,Rahul Sharma,South,Chennai,Laptop,Electronics,4,60000,240000,171443.68,68556.32,Credit Card
+ORD-00599,2025-01-12,Rohit Tiwari,North,Delhi,Smartphone,Electronics,5,25000,125000,86202.15,38797.85,UPI
+ORD-00600,2024-08-30,Priya Singh,North,Chandigarh,Desk,Furniture,4,18000,72000,45403.79,26596.21,Debit Card
+ORD-00601,2024-01-07,Amit Verma,East,Patna,Mouse,Accessories,4,1200,4800,3668.26,1131.74,Net Banking
+ORD-00602,2025-04-28,Karan Mehta,South,Hyderabad,Desk,Furniture,2,18000,36000,20536.74,15463.26,Net Banking
+ORD-00603,2025-05-20,Rahul Sharma,East,Bhubaneswar,Desk,Furniture,1,18000,18000,13395.87,4604.13,UPI
+ORD-00604,2025-12-02,Rohit Tiwari,North,Delhi,Pen Set,Stationery,2,250,500,286.45,213.55,UPI
+ORD-00605,2025-08-19,Amit Verma,North,Jaipur,Keyboard,Accessories,2,2500,5000,3330.97,1669.03,UPI
+ORD-00606,2024-08-04,Priya Singh,South,Chennai,Laptop,Electronics,4,60000,240000,145909.57,94090.43,Debit Card
+ORD-00607,2024-01-25,Rohit Tiwari,South,Hyderabad,Notebook,Stationery,4,150,600,360.82,239.18,Cash
+ORD-00608,2025-08-20,Vikas Kumar,East,Kolkata,Desk,Furniture,4,18000,72000,41412.16,30587.84,Credit Card
+ORD-00609,2024-02-12,Sneha Joshi,West,Ahmedabad,Notebook,Stationery,2,150,300,165.88,134.12,Credit Card
+ORD-00610,2024-07-06,Priya Singh,East,Kolkata,Smartphone,Electronics,5,25000,125000,85192.69,39807.31,Credit Card
+ORD-00611,2025-10-12,Sneha Joshi,East,Patna,Keyboard,Accessories,4,2500,10000,6002.11,3997.89,Cash
+ORD-00612,2025-03-13,Vikas Kumar,South,Bangalore,Mouse,Accessories,5,1200,6000,3385.9,2614.1,Net Banking
+ORD-00613,2025-07-12,Sneha Joshi,North,Jaipur,Headphones,Electronics,2,3000,6000,3560.88,2439.12,Net Banking
+ORD-00614,2025-03-30,Karan Mehta,South,Chennai,Keyboard,Accessories,5,2500,12500,9603.2,2896.8,Credit Card
+ORD-00615,2024-12-17,Vikas Kumar,East,Bhubaneswar,Office Chair,Furniture,2,12000,24000,16077.78,7922.22,Cash
+ORD-00616,2025-03-10,Anjali Patel,East,Bhubaneswar,Keyboard,Accessories,3,2500,7500,5864.85,1635.15,Net Banking
+ORD-00617,2025-03-21,Rahul Sharma,South,Hyderabad,Keyboard,Accessories,1,2500,2500,1516.26,983.74,Debit Card
+ORD-00618,2025-07-31,Karan Mehta,East,Kolkata,Mouse,Accessories,2,1200,2400,1818.62,581.38,Net Banking
+ORD-00619,2025-03-30,Neha Gupta,North,Delhi,Backpack,Accessories,4,1800,7200,5633.85,1566.15,Cash
+ORD-00620,2024-12-07,Vikas Kumar,South,Hyderabad,Laptop,Electronics,5,60000,300000,206782.77,93217.23,UPI
+ORD-00621,2024-04-04,Rohit Tiwari,East,Patna,Headphones,Electronics,1,3000,3000,1917.15,1082.85,UPI
+ORD-00622,2025-08-28,Rohit Tiwari,North,Jaipur,Notebook,Stationery,5,150,750,440.82,309.18,UPI
+ORD-00623,2025-02-08,Amit Verma,North,Jaipur,Mouse,Accessories,2,1200,2400,1525.55,874.45,Credit Card
+ORD-00624,2024-01-05,Rahul Sharma,West,Pune,Pen Set,Stationery,5,250,1250,982.59,267.41,Cash
+ORD-00625,2025-12-16,Pooja Yadav,South,Hyderabad,Office Chair,Furniture,5,12000,60000,40366.61,19633.39,Credit Card
+ORD-00626,2025-04-08,Sneha Joshi,North,Jaipur,Pen Set,Stationery,3,250,750,444.39,305.61,Cash
+ORD-00627,2025-02-01,Amit Verma,East,Kolkata,Notebook,Stationery,1,150,150,101.12,48.88,Cash
+ORD-00628,2025-09-22,Karan Mehta,West,Pune,Smartphone,Electronics,4,25000,100000,69281.24,30718.76,Cash
+ORD-00629,2025-04-21,Rohit Tiwari,North,Jaipur,Backpack,Accessories,3,1800,5400,3506.96,1893.04,UPI
+ORD-00630,2025-05-12,Neha Gupta,West,Ahmedabad,Notebook,Stationery,2,150,300,235.37,64.63,UPI
+ORD-00631,2025-10-10,Sneha Joshi,East,Patna,Smartphone,Electronics,3,25000,75000,45082.29,29917.71,Net Banking
+ORD-00632,2024-08-25,Karan Mehta,South,Hyderabad,Office Chair,Furniture,3,12000,36000,20912.85,15087.15,UPI
+ORD-00633,2024-12-29,Neha Gupta,East,Patna,Headphones,Electronics,5,3000,15000,9648.64,5351.36,UPI
+ORD-00634,2025-02-22,Vikas Kumar,East,Patna,Office Chair,Furniture,3,12000,36000,25727.15,10272.85,Debit Card
+ORD-00635,2024-06-03,Priya Singh,North,Jaipur,Mouse,Accessories,2,1200,2400,1900.35,499.65,Cash
+ORD-00636,2024-11-25,Amit Verma,West,Mumbai,Desk,Furniture,3,18000,54000,36939.19,17060.81,Cash
+ORD-00637,2024-03-09,Neha Gupta,West,Pune,Headphones,Electronics,3,3000,9000,5335.08,3664.92,UPI
+ORD-00638,2025-09-29,Amit Verma,North,Delhi,Laptop,Electronics,5,60000,300000,211712.44,88287.56,UPI
+ORD-00639,2025-05-16,Vikas Kumar,South,Bangalore,Desk,Furniture,5,18000,90000,67609.31,22390.69,Credit Card
+ORD-00640,2024-07-29,Karan Mehta,North,Jaipur,Headphones,Electronics,2,3000,6000,3921.59,2078.41,Cash
+ORD-00641,2025-03-20,Anjali Patel,West,Mumbai,Mouse,Accessories,4,1200,4800,3307.45,1492.55,Net Banking
+ORD-00642,2025-02-11,Anjali Patel,South,Bangalore,Notebook,Stationery,1,150,150,117.68,32.32,Cash
+ORD-00643,2024-06-21,Sneha Joshi,South,Chennai,Pen Set,Stationery,1,250,250,170.24,79.76,Net Banking
+ORD-00644,2025-10-24,Anjali Patel,West,Mumbai,Mouse,Accessories,4,1200,4800,3468.5,1331.5,Net Banking
+ORD-00645,2024-01-15,Rohit Tiwari,South,Hyderabad,Office Chair,Furniture,4,12000,48000,38068.03,9931.97,Credit Card
+ORD-00646,2025-01-11,Sneha Joshi,East,Bhubaneswar,Headphones,Electronics,4,3000,12000,8125.29,3874.71,Cash
+ORD-00647,2025-03-30,Sneha Joshi,East,Patna,Smartphone,Electronics,3,25000,75000,43124.65,31875.35,UPI
+ORD-00648,2024-03-12,Anjali Patel,North,Jaipur,Office Chair,Furniture,4,12000,48000,36485.13,11514.87,Debit Card
+ORD-00649,2025-03-26,Sneha Joshi,East,Patna,Keyboard,Accessories,1,2500,2500,1924.45,575.55,Credit Card
+ORD-00650,2024-08-02,Karan Mehta,North,Jaipur,Headphones,Electronics,3,3000,9000,5406.73,3593.27,UPI
+ORD-00651,2025-11-14,Amit Verma,East,Bhubaneswar,Headphones,Electronics,1,3000,3000,2179.56,820.44,Cash
+ORD-00652,2024-05-24,Rohit Tiwari,North,Jaipur,Notebook,Stationery,4,150,600,460.28,139.72,UPI
+ORD-00653,2024-12-05,Sneha Joshi,West,Ahmedabad,Pen Set,Stationery,3,250,750,568.19,181.81,Net Banking
+ORD-00654,2025-11-25,Vikas Kumar,North,Chandigarh,Laptop,Electronics,5,60000,300000,184250.21,115749.79,Debit Card
+ORD-00655,2024-04-08,Sneha Joshi,West,Ahmedabad,Headphones,Electronics,5,3000,15000,10664.48,4335.52,Cash
+ORD-00656,2024-01-19,Anjali Patel,West,Ahmedabad,Office Chair,Furniture,4,12000,48000,29164.99,18835.01,Cash
+ORD-00657,2024-07-15,Rahul Sharma,West,Ahmedabad,Office Chair,Furniture,4,12000,48000,31056.67,16943.33,Net Banking
+ORD-00658,2025-11-03,Karan Mehta,West,Pune,Smartphone,Electronics,3,25000,75000,47797.1,27202.9,Net Banking
+ORD-00659,2024-03-01,Anjali Patel,North,Delhi,Headphones,Electronics,5,3000,15000,10623.62,4376.38,Debit Card
+ORD-00660,2024-05-14,Vikas Kumar,West,Mumbai,Laptop,Electronics,4,60000,240000,166274.07,73725.93,Net Banking
+ORD-00661,2025-01-21,Pooja Yadav,West,Ahmedabad,Smartphone,Electronics,3,25000,75000,55588.58,19411.42,UPI
+ORD-00662,2025-04-20,Anjali Patel,North,Chandigarh,Headphones,Electronics,1,3000,3000,1814.67,1185.33,UPI
+ORD-00663,2025-04-02,Neha Gupta,North,Jaipur,Desk,Furniture,1,18000,18000,10744.63,7255.37,Net Banking
+ORD-00664,2024-04-06,Anjali Patel,North,Delhi,Mouse,Accessories,1,1200,1200,866.07,333.93,UPI
+ORD-00665,2025-08-31,Amit Verma,East,Kolkata,Laptop,Electronics,2,60000,120000,80549.31,39450.69,Debit Card
+ORD-00666,2025-09-07,Vikas Kumar,West,Pune,Desk,Furniture,5,18000,90000,68032.26,21967.74,Net Banking
+ORD-00667,2024-08-31,Sneha Joshi,East,Bhubaneswar,Office Chair,Furniture,2,12000,24000,14833.76,9166.24,Net Banking
+ORD-00668,2024-09-10,Anjali Patel,West,Ahmedabad,Desk,Furniture,3,18000,54000,42720.14,11279.86,UPI
+ORD-00669,2025-09-03,Amit Verma,South,Chennai,Office Chair,Furniture,3,12000,36000,19854.3,16145.7,Debit Card
+ORD-00670,2025-11-09,Priya Singh,West,Mumbai,Office Chair,Furniture,1,12000,12000,7168.8,4831.2,Cash
+ORD-00671,2024-11-02,Pooja Yadav,East,Patna,Keyboard,Accessories,5,2500,12500,8197.99,4302.01,Net Banking
+ORD-00672,2025-09-09,Pooja Yadav,North,Jaipur,Headphones,Electronics,5,3000,15000,11331.57,3668.43,Debit Card
+ORD-00673,2024-07-30,Rahul Sharma,East,Patna,Office Chair,Furniture,4,12000,48000,30161.7,17838.3,UPI
+ORD-00674,2024-05-13,Rohit Tiwari,West,Pune,Backpack,Accessories,3,1800,5400,3029.88,2370.12,Debit Card
+ORD-00675,2024-05-19,Pooja Yadav,East,Kolkata,Backpack,Accessories,4,1800,7200,5174.54,2025.46,Debit Card
+ORD-00676,2025-10-12,Neha Gupta,North,Jaipur,Smartphone,Electronics,5,25000,125000,83934.05,41065.95,Cash
+ORD-00677,2024-11-07,Priya Singh,South,Chennai,Office Chair,Furniture,3,12000,36000,26906.19,9093.81,Credit Card
+ORD-00678,2025-01-13,Karan Mehta,South,Bangalore,Backpack,Accessories,3,1800,5400,4150.73,1249.27,Cash
+ORD-00679,2024-06-21,Anjali Patel,West,Pune,Headphones,Electronics,1,3000,3000,2360.52,639.48,Credit Card
+ORD-00680,2025-02-18,Pooja Yadav,South,Bangalore,Backpack,Accessories,5,1800,9000,5792.19,3207.81,Net Banking
+ORD-00681,2025-04-29,Amit Verma,North,Chandigarh,Laptop,Electronics,4,60000,240000,169600.14,70399.86,Net Banking
+ORD-00682,2024-04-02,Karan Mehta,West,Ahmedabad,Headphones,Electronics,4,3000,12000,7068.78,4931.22,Credit Card
+ORD-00683,2024-07-28,Karan Mehta,South,Hyderabad,Smartphone,Electronics,3,25000,75000,45642.96,29357.04,UPI
+ORD-00684,2025-07-27,Karan Mehta,East,Bhubaneswar,Smartphone,Electronics,3,25000,75000,57699.41,17300.59,Debit Card
+ORD-00685,2025-06-11,Pooja Yadav,North,Delhi,Backpack,Accessories,3,1800,5400,3042.79,2357.21,Credit Card
+ORD-00686,2024-10-01,Karan Mehta,East,Bhubaneswar,Laptop,Electronics,1,60000,60000,37276.69,22723.31,Net Banking
+ORD-00687,2024-01-08,Rahul Sharma,West,Ahmedabad,Office Chair,Furniture,1,12000,12000,8118.14,3881.86,UPI
+ORD-00688,2024-02-23,Pooja Yadav,North,Chandigarh,Mouse,Accessories,1,1200,1200,889.45,310.55,Cash
+ORD-00689,2025-02-16,Pooja Yadav,East,Kolkata,Smartphone,Electronics,1,25000,25000,15158.94,9841.06,Debit Card
+ORD-00690,2024-04-06,Anjali Patel,South,Bangalore,Smartphone,Electronics,1,25000,25000,16187.26,8812.74,Debit Card
+ORD-00691,2025-02-03,Rahul Sharma,North,Chandigarh,Pen Set,Stationery,5,250,1250,720.74,529.26,Debit Card
+ORD-00692,2025-04-18,Priya Singh,West,Mumbai,Backpack,Accessories,4,1800,7200,4311.27,2888.73,UPI
+ORD-00693,2025-05-22,Rohit Tiwari,East,Bhubaneswar,Mouse,Accessories,5,1200,6000,3642.62,2357.38,Cash
+ORD-00694,2025-02-28,Neha Gupta,East,Bhubaneswar,Notebook,Stationery,4,150,600,443.48,156.52,Debit Card
+ORD-00695,2024-04-01,Rohit Tiwari,North,Jaipur,Keyboard,Accessories,5,2500,12500,8131.54,4368.46,UPI
+ORD-00696,2024-03-13,Neha Gupta,East,Patna,Office Chair,Furniture,3,12000,36000,20226.59,15773.41,Credit Card
+ORD-00697,2025-04-12,Priya Singh,East,Patna,Mouse,Accessories,2,1200,2400,1679.27,720.73,Credit Card
+ORD-00698,2024-06-19,Rahul Sharma,East,Kolkata,Headphones,Electronics,4,3000,12000,6907.78,5092.22,Net Banking
+ORD-00699,2025-08-13,Karan Mehta,North,Chandigarh,Keyboard,Accessories,4,2500,10000,7340.35,2659.65,Cash
+ORD-00700,2024-12-28,Vikas Kumar,North,Chandigarh,Backpack,Accessories,3,1800,5400,4037.25,1362.75,Net Banking
+ORD-00701,2024-05-01,Sneha Joshi,West,Ahmedabad,Laptop,Electronics,4,60000,240000,139550.91,100449.09,Cash
+ORD-00702,2024-12-07,Priya Singh,South,Hyderabad,Laptop,Electronics,1,60000,60000,36793.48,23206.52,UPI
+ORD-00703,2025-02-28,Rohit Tiwari,East,Bhubaneswar,Headphones,Electronics,5,3000,15000,11250.03,3749.97,Cash
+ORD-00704,2024-12-29,Neha Gupta,North,Delhi,Laptop,Electronics,5,60000,300000,182385.37,117614.63,UPI
+ORD-00705,2025-05-25,Pooja Yadav,South,Bangalore,Laptop,Electronics,5,60000,300000,204854.34,95145.66,Net Banking
+ORD-00706,2025-12-07,Anjali Patel,West,Mumbai,Headphones,Electronics,3,3000,9000,6469.06,2530.94,Credit Card
+ORD-00707,2024-08-24,Priya Singh,East,Kolkata,Notebook,Stationery,4,150,600,358.36,241.64,Debit Card
+ORD-00708,2024-10-21,Anjali Patel,South,Hyderabad,Office Chair,Furniture,3,12000,36000,24682.84,11317.16,Debit Card
+ORD-00709,2024-04-27,Rahul Sharma,South,Bangalore,Notebook,Stationery,5,150,750,455.36,294.64,Net Banking
+ORD-00710,2025-08-29,Amit Verma,South,Bangalore,Notebook,Stationery,2,150,300,208.67,91.33,Net Banking
+ORD-00711,2025-05-19,Anjali Patel,East,Kolkata,Backpack,Accessories,1,1800,1800,993.57,806.43,Debit Card
+ORD-00712,2025-09-07,Rohit Tiwari,North,Jaipur,Backpack,Accessories,1,1800,1800,1176.38,623.62,Credit Card
+ORD-00713,2025-02-18,Vikas Kumar,North,Jaipur,Desk,Furniture,2,18000,36000,26161.16,9838.84,Credit Card
+ORD-00714,2025-08-20,Neha Gupta,South,Hyderabad,Office Chair,Furniture,5,12000,60000,37751.89,22248.11,Net Banking
+ORD-00715,2024-07-13,Pooja Yadav,East,Bhubaneswar,Smartphone,Electronics,4,25000,100000,58098.22,41901.78,UPI
+ORD-00716,2024-02-23,Vikas Kumar,North,Delhi,Desk,Furniture,5,18000,90000,58988.85,31011.15,Cash
+ORD-00717,2025-05-14,Priya Singh,South,Chennai,Headphones,Electronics,2,3000,6000,4281.0,1719.0,Debit Card
+ORD-00718,2025-12-13,Pooja Yadav,South,Bangalore,Office Chair,Furniture,5,12000,60000,46469.12,13530.88,Net Banking
+ORD-00719,2025-02-14,Priya Singh,West,Mumbai,Smartphone,Electronics,5,25000,125000,95296.49,29703.51,Cash
+ORD-00720,2025-12-10,Rohit Tiwari,North,Delhi,Keyboard,Accessories,5,2500,12500,9651.98,2848.02,Cash
+ORD-00721,2024-07-21,Rohit Tiwari,East,Bhubaneswar,Headphones,Electronics,5,3000,15000,8863.04,6136.96,Credit Card
+ORD-00722,2025-04-26,Karan Mehta,East,Kolkata,Smartphone,Electronics,5,25000,125000,86076.43,38923.57,Credit Card
+ORD-00723,2025-12-20,Pooja Yadav,North,Chandigarh,Pen Set,Stationery,1,250,250,137.93,112.07,Cash
+ORD-00724,2024-06-26,Sneha Joshi,South,Hyderabad,Desk,Furniture,1,18000,18000,14095.8,3904.2,UPI
+ORD-00725,2025-08-22,Priya Singh,North,Jaipur,Desk,Furniture,1,18000,18000,10258.88,7741.12,Debit Card
+ORD-00726,2024-11-01,Karan Mehta,North,Delhi,Smartphone,Electronics,3,25000,75000,44286.62,30713.38,Debit Card
+ORD-00727,2024-02-26,Rohit Tiwari,South,Bangalore,Smartphone,Electronics,2,25000,50000,31906.69,18093.31,Cash
+ORD-00728,2025-12-30,Rahul Sharma,West,Ahmedabad,Keyboard,Accessories,3,2500,7500,4171.07,3328.93,Credit Card
+ORD-00729,2025-04-12,Priya Singh,North,Delhi,Office Chair,Furniture,1,12000,12000,9072.67,2927.33,Net Banking
+ORD-00730,2025-08-24,Neha Gupta,West,Pune,Backpack,Accessories,5,1800,9000,5395.77,3604.23,UPI
+ORD-00731,2024-04-08,Pooja Yadav,West,Mumbai,Headphones,Electronics,3,3000,9000,6690.48,2309.52,Cash
+ORD-00732,2024-06-28,Pooja Yadav,South,Hyderabad,Office Chair,Furniture,3,12000,36000,24301.1,11698.9,Cash
+ORD-00733,2024-11-04,Karan Mehta,West,Mumbai,Desk,Furniture,1,18000,18000,14090.0,3910.0,UPI
+ORD-00734,2025-10-18,Vikas Kumar,West,Pune,Keyboard,Accessories,3,2500,7500,4134.93,3365.07,Credit Card
+ORD-00735,2024-07-17,Neha Gupta,South,Chennai,Headphones,Electronics,4,3000,12000,8620.87,3379.13,Credit Card
+ORD-00736,2024-08-27,Priya Singh,North,Jaipur,Laptop,Electronics,4,60000,240000,188963.2,51036.8,UPI
+ORD-00737,2025-02-15,Karan Mehta,North,Delhi,Smartphone,Electronics,1,25000,25000,15019.9,9980.1,Cash
+ORD-00738,2025-06-26,Vikas Kumar,South,Hyderabad,Keyboard,Accessories,2,2500,5000,3805.51,1194.49,Cash
+ORD-00739,2025-05-11,Rohit Tiwari,East,Bhubaneswar,Backpack,Accessories,1,1800,1800,1366.52,433.48,Net Banking
+ORD-00740,2025-08-19,Vikas Kumar,East,Bhubaneswar,Office Chair,Furniture,5,12000,60000,47561.74,12438.26,Debit Card
+ORD-00741,2024-08-24,Neha Gupta,South,Bangalore,Pen Set,Stationery,2,250,500,386.19,113.81,Debit Card
+ORD-00742,2024-05-11,Sneha Joshi,West,Ahmedabad,Mouse,Accessories,5,1200,6000,4645.13,1354.87,Net Banking
+ORD-00743,2025-07-24,Rahul Sharma,North,Jaipur,Keyboard,Accessories,5,2500,12500,7700.61,4799.39,Cash
+ORD-00744,2024-09-10,Rahul Sharma,West,Ahmedabad,Office Chair,Furniture,5,12000,60000,43428.5,16571.5,Cash
+ORD-00745,2024-09-04,Karan Mehta,West,Ahmedabad,Mouse,Accessories,4,1200,4800,3268.74,1531.26,Net Banking
+ORD-00746,2024-05-22,Karan Mehta,East,Bhubaneswar,Office Chair,Furniture,4,12000,48000,35651.86,12348.14,Credit Card
+ORD-00747,2025-02-24,Vikas Kumar,South,Hyderabad,Office Chair,Furniture,3,12000,36000,22763.34,13236.66,Credit Card
+ORD-00748,2024-05-16,Anjali Patel,North,Jaipur,Keyboard,Accessories,5,2500,12500,6901.94,5598.06,Cash
+ORD-00749,2025-07-06,Vikas Kumar,West,Pune,Office Chair,Furniture,2,12000,24000,18411.59,5588.41,Debit Card
+ORD-00750,2025-12-13,Vikas Kumar,South,Bangalore,Headphones,Electronics,2,3000,6000,3724.34,2275.66,Cash
+ORD-00751,2024-02-02,Neha Gupta,North,Jaipur,Backpack,Accessories,4,1800,7200,4306.33,2893.67,Net Banking
+ORD-00752,2024-05-14,Priya Singh,West,Mumbai,Mouse,Accessories,3,1200,3600,2860.56,739.44,Debit Card
+ORD-00753,2024-04-01,Neha Gupta,North,Jaipur,Backpack,Accessories,5,1800,9000,6290.31,2709.69,Credit Card
+ORD-00754,2025-07-07,Rahul Sharma,North,Jaipur,Keyboard,Accessories,1,2500,2500,1415.4,1084.6,Credit Card
+ORD-00755,2024-03-07,Karan Mehta,West,Mumbai,Laptop,Electronics,4,60000,240000,191600.04,48399.96,Cash
+ORD-00756,2025-05-01,Sneha Joshi,South,Hyderabad,Office Chair,Furniture,5,12000,60000,47984.46,12015.54,Net Banking
+ORD-00757,2024-03-14,Anjali Patel,East,Kolkata,Desk,Furniture,4,18000,72000,43108.35,28891.65,Debit Card
+ORD-00758,2024-12-04,Sneha Joshi,West,Pune,Desk,Furniture,5,18000,90000,49532.71,40467.29,Debit Card
+ORD-00759,2025-03-17,Rahul Sharma,West,Pune,Notebook,Stationery,1,150,150,90.47,59.53,Cash
+ORD-00760,2025-07-03,Rahul Sharma,West,Pune,Pen Set,Stationery,1,250,250,198.25,51.75,Debit Card
+ORD-00761,2024-10-23,Anjali Patel,East,Patna,Notebook,Stationery,5,150,750,563.38,186.62,Cash
+ORD-00762,2025-12-02,Neha Gupta,West,Mumbai,Laptop,Electronics,4,60000,240000,154977.64,85022.36,Credit Card
+ORD-00763,2024-11-30,Sneha Joshi,North,Jaipur,Keyboard,Accessories,4,2500,10000,5602.43,4397.57,UPI
+ORD-00764,2025-07-28,Vikas Kumar,South,Bangalore,Mouse,Accessories,4,1200,4800,3542.57,1257.43,Cash
+ORD-00765,2025-07-26,Amit Verma,West,Pune,Smartphone,Electronics,3,25000,75000,48769.0,26231.0,Net Banking
+ORD-00766,2024-10-06,Amit Verma,West,Mumbai,Laptop,Electronics,5,60000,300000,230312.14,69687.86,Credit Card
+ORD-00767,2024-10-24,Neha Gupta,West,Ahmedabad,Office Chair,Furniture,1,12000,12000,8319.96,3680.04,Cash
+ORD-00768,2025-11-21,Neha Gupta,North,Chandigarh,Headphones,Electronics,3,3000,9000,5919.48,3080.52,UPI
+ORD-00769,2025-12-25,Amit Verma,East,Bhubaneswar,Smartphone,Electronics,5,25000,125000,75925.05,49074.95,Cash
+ORD-00770,2024-03-28,Rohit Tiwari,East,Kolkata,Pen Set,Stationery,5,250,1250,702.56,547.44,UPI
+ORD-00771,2025-06-20,Rahul Sharma,South,Chennai,Headphones,Electronics,4,3000,12000,6838.05,5161.95,Credit Card
+ORD-00772,2024-08-05,Karan Mehta,South,Chennai,Smartphone,Electronics,3,25000,75000,59419.07,15580.93,UPI
+ORD-00773,2025-01-18,Karan Mehta,North,Delhi,Headphones,Electronics,2,3000,6000,4491.97,1508.03,Cash
+ORD-00774,2024-12-21,Rahul Sharma,North,Chandigarh,Office Chair,Furniture,3,12000,36000,21320.93,14679.07,Net Banking
+ORD-00775,2024-03-12,Pooja Yadav,South,Chennai,Pen Set,Stationery,5,250,1250,939.56,310.44,Net Banking
+ORD-00776,2024-10-20,Vikas Kumar,North,Delhi,Smartphone,Electronics,2,25000,50000,39407.44,10592.56,Debit Card
+ORD-00777,2024-05-12,Rohit Tiwari,East,Bhubaneswar,Keyboard,Accessories,5,2500,12500,8682.25,3817.75,UPI
+ORD-00778,2025-08-25,Rohit Tiwari,North,Chandigarh,Backpack,Accessories,3,1800,5400,3252.14,2147.86,Credit Card
+ORD-00779,2024-08-22,Anjali Patel,West,Pune,Pen Set,Stationery,5,250,1250,789.73,460.27,Net Banking
+ORD-00780,2024-08-04,Rohit Tiwari,East,Patna,Notebook,Stationery,2,150,300,237.33,62.67,UPI
+ORD-00781,2024-09-02,Rahul Sharma,East,Bhubaneswar,Office Chair,Furniture,2,12000,24000,14010.5,9989.5,Cash
+ORD-00782,2025-11-17,Amit Verma,West,Ahmedabad,Headphones,Electronics,5,3000,15000,9200.46,5799.54,Cash
+ORD-00783,2025-02-22,Priya Singh,West,Pune,Mouse,Accessories,2,1200,2400,1428.62,971.38,UPI
+ORD-00784,2025-04-22,Anjali Patel,South,Chennai,Laptop,Electronics,2,60000,120000,66418.08,53581.92,Net Banking
+ORD-00785,2024-04-16,Vikas Kumar,South,Chennai,Backpack,Accessories,4,1800,7200,5356.13,1843.87,Debit Card
+ORD-00786,2025-05-18,Vikas Kumar,North,Delhi,Backpack,Accessories,5,1800,9000,6893.72,2106.28,Net Banking
+ORD-00787,2024-05-23,Karan Mehta,East,Kolkata,Headphones,Electronics,3,3000,9000,5185.36,3814.64,Debit Card
+ORD-00788,2025-12-08,Vikas Kumar,South,Hyderabad,Notebook,Stationery,1,150,150,91.19,58.81,UPI
+ORD-00789,2024-01-01,Neha Gupta,South,Hyderabad,Desk,Furniture,3,18000,54000,41115.36,12884.64,Cash
+ORD-00790,2025-06-01,Rohit Tiwari,South,Bangalore,Notebook,Stationery,2,150,300,171.26,128.74,Cash
+ORD-00791,2025-01-28,Rohit Tiwari,North,Jaipur,Pen Set,Stationery,3,250,750,524.41,225.59,UPI
+ORD-00792,2025-07-29,Anjali Patel,South,Chennai,Headphones,Electronics,3,3000,9000,6643.42,2356.58,Debit Card
+ORD-00793,2024-02-07,Karan Mehta,South,Hyderabad,Backpack,Accessories,2,1800,3600,2275.79,1324.21,Cash
+ORD-00794,2025-01-08,Neha Gupta,West,Pune,Mouse,Accessories,2,1200,2400,1347.85,1052.15,UPI
+ORD-00795,2024-09-08,Sneha Joshi,West,Pune,Keyboard,Accessories,4,2500,10000,6647.8,3352.2,Cash
+ORD-00796,2025-05-10,Rahul Sharma,North,Chandigarh,Headphones,Electronics,3,3000,9000,5250.75,3749.25,UPI
+ORD-00797,2025-07-04,Pooja Yadav,East,Patna,Pen Set,Stationery,4,250,1000,722.74,277.26,UPI
+ORD-00798,2024-01-26,Amit Verma,South,Chennai,Notebook,Stationery,1,150,150,116.32,33.68,Credit Card
+ORD-00799,2024-07-23,Sneha Joshi,West,Pune,Backpack,Accessories,1,1800,1800,1129.1,670.9,Debit Card
+ORD-00800,2025-08-26,Rahul Sharma,East,Bhubaneswar,Desk,Furniture,4,18000,72000,48841.21,23158.79,Debit Card
+ORD-00801,2025-07-09,Anjali Patel,North,Delhi,Laptop,Electronics,5,60000,300000,238038.04,61961.96,UPI
+ORD-00802,2024-02-17,Amit Verma,West,Pune,Pen Set,Stationery,3,250,750,592.74,157.26,Net Banking
+ORD-00803,2025-01-19,Rohit Tiwari,South,Chennai,Notebook,Stationery,3,150,450,347.32,102.68,Cash
+ORD-00804,2024-04-10,Priya Singh,West,Pune,Desk,Furniture,2,18000,36000,20772.83,15227.17,Debit Card
+ORD-00805,2024-04-23,Pooja Yadav,South,Hyderabad,Backpack,Accessories,3,1800,5400,4063.95,1336.05,UPI
+ORD-00806,2025-01-15,Amit Verma,West,Ahmedabad,Headphones,Electronics,2,3000,6000,3976.63,2023.37,Credit Card
+ORD-00807,2025-07-31,Anjali Patel,North,Delhi,Smartphone,Electronics,5,25000,125000,75789.14,49210.86,Debit Card
+ORD-00808,2024-07-25,Priya Singh,North,Chandigarh,Headphones,Electronics,3,3000,9000,5606.46,3393.54,Net Banking
+ORD-00809,2025-12-24,Neha Gupta,South,Hyderabad,Keyboard,Accessories,4,2500,10000,7333.73,2666.27,Debit Card
+ORD-00810,2025-01-04,Amit Verma,South,Chennai,Pen Set,Stationery,5,250,1250,799.91,450.09,Cash
+ORD-00811,2024-11-14,Neha Gupta,West,Mumbai,Desk,Furniture,3,18000,54000,35790.82,18209.18,Net Banking
+ORD-00812,2024-01-27,Neha Gupta,South,Bangalore,Smartphone,Electronics,3,25000,75000,46648.27,28351.73,UPI
+ORD-00813,2025-12-20,Pooja Yadav,East,Bhubaneswar,Mouse,Accessories,1,1200,1200,810.13,389.87,UPI
+ORD-00814,2024-01-26,Amit Verma,West,Ahmedabad,Office Chair,Furniture,3,12000,36000,24532.43,11467.57,UPI
+ORD-00815,2025-04-02,Karan Mehta,South,Chennai,Keyboard,Accessories,5,2500,12500,7964.86,4535.14,Cash
+ORD-00816,2024-01-01,Karan Mehta,North,Chandigarh,Office Chair,Furniture,5,12000,60000,41501.92,18498.08,Credit Card
+ORD-00817,2024-04-27,Vikas Kumar,West,Ahmedabad,Smartphone,Electronics,3,25000,75000,46155.46,28844.54,Debit Card
+ORD-00818,2024-11-30,Rahul Sharma,South,Bangalore,Mouse,Accessories,1,1200,1200,664.47,535.53,Cash
+ORD-00819,2024-08-15,Rahul Sharma,West,Ahmedabad,Headphones,Electronics,3,3000,9000,6856.12,2143.88,UPI
+ORD-00820,2025-11-28,Neha Gupta,North,Delhi,Laptop,Electronics,1,60000,60000,39330.51,20669.49,Debit Card
+ORD-00821,2025-05-30,Sneha Joshi,South,Hyderabad,Keyboard,Accessories,3,2500,7500,5659.59,1840.41,Credit Card
+ORD-00822,2025-08-13,Karan Mehta,North,Chandigarh,Pen Set,Stationery,5,250,1250,730.2,519.8,Net Banking
+ORD-00823,2024-02-29,Karan Mehta,West,Ahmedabad,Backpack,Accessories,1,1800,1800,1330.82,469.18,Net Banking
+ORD-00824,2024-10-06,Sneha Joshi,East,Patna,Laptop,Electronics,5,60000,300000,171843.93,128156.07,Credit Card
+ORD-00825,2025-08-12,Anjali Patel,North,Delhi,Office Chair,Furniture,1,12000,12000,8140.4,3859.6,UPI
+ORD-00826,2025-09-21,Rohit Tiwari,North,Delhi,Pen Set,Stationery,5,250,1250,964.23,285.77,Cash
+ORD-00827,2024-03-21,Amit Verma,South,Hyderabad,Notebook,Stationery,4,150,600,472.81,127.19,Debit Card
+ORD-00828,2024-03-06,Pooja Yadav,West,Mumbai,Mouse,Accessories,5,1200,6000,3945.5,2054.5,Cash
+ORD-00829,2024-10-01,Rohit Tiwari,West,Mumbai,Laptop,Electronics,3,60000,180000,102309.82,77690.18,Net Banking
+ORD-00830,2024-09-18,Pooja Yadav,East,Patna,Smartphone,Electronics,3,25000,75000,58991.68,16008.32,UPI
+ORD-00831,2024-12-28,Pooja Yadav,North,Chandigarh,Laptop,Electronics,1,60000,60000,41271.45,18728.55,Cash
+ORD-00832,2024-11-11,Priya Singh,East,Kolkata,Smartphone,Electronics,3,25000,75000,49263.39,25736.61,Cash
+ORD-00833,2024-03-30,Priya Singh,East,Bhubaneswar,Backpack,Accessories,1,1800,1800,1070.28,729.72,Credit Card
+ORD-00834,2024-12-01,Sneha Joshi,East,Bhubaneswar,Backpack,Accessories,2,1800,3600,2627.48,972.52,Credit Card
+ORD-00835,2024-04-12,Pooja Yadav,East,Patna,Backpack,Accessories,2,1800,3600,2303.46,1296.54,Net Banking
+ORD-00836,2024-03-02,Anjali Patel,East,Kolkata,Notebook,Stationery,5,150,750,471.54,278.46,Credit Card
+ORD-00837,2025-01-06,Karan Mehta,West,Mumbai,Laptop,Electronics,3,60000,180000,122036.21,57963.79,Credit Card
+ORD-00838,2024-12-29,Pooja Yadav,East,Kolkata,Pen Set,Stationery,1,250,250,171.84,78.16,Net Banking
+ORD-00839,2025-01-30,Rohit Tiwari,South,Chennai,Office Chair,Furniture,2,12000,24000,14567.23,9432.77,Net Banking
+ORD-00840,2024-09-27,Karan Mehta,West,Pune,Keyboard,Accessories,5,2500,12500,7920.44,4579.56,UPI
+ORD-00841,2025-03-30,Anjali Patel,South,Bangalore,Smartphone,Electronics,5,25000,125000,77814.77,47185.23,Net Banking
+ORD-00842,2024-10-06,Karan Mehta,East,Kolkata,Laptop,Electronics,1,60000,60000,42961.89,17038.11,Credit Card
+ORD-00843,2025-11-27,Priya Singh,East,Bhubaneswar,Pen Set,Stationery,5,250,1250,710.09,539.91,Net Banking
+ORD-00844,2025-04-29,Anjali Patel,West,Ahmedabad,Laptop,Electronics,5,60000,300000,182494.22,117505.78,Credit Card
+ORD-00845,2025-08-09,Rahul Sharma,South,Hyderabad,Notebook,Stationery,1,150,150,82.77,67.23,Credit Card
+ORD-00846,2024-01-14,Anjali Patel,West,Mumbai,Headphones,Electronics,2,3000,6000,3917.53,2082.47,Net Banking
+ORD-00847,2024-01-29,Vikas Kumar,North,Chandigarh,Laptop,Electronics,3,60000,180000,108394.52,71605.48,UPI
+ORD-00848,2025-08-27,Vikas Kumar,West,Mumbai,Laptop,Electronics,3,60000,180000,116829.61,63170.39,Net Banking
+ORD-00849,2024-11-01,Rohit Tiwari,South,Hyderabad,Headphones,Electronics,5,3000,15000,9724.26,5275.74,Debit Card
+ORD-00850,2024-04-24,Priya Singh,North,Delhi,Laptop,Electronics,5,60000,300000,236953.65,63046.35,UPI
+ORD-00851,2024-07-01,Vikas Kumar,West,Ahmedabad,Pen Set,Stationery,2,250,500,299.31,200.69,Cash
+ORD-00852,2024-06-07,Vikas Kumar,West,Pune,Smartphone,Electronics,3,25000,75000,58347.39,16652.61,UPI
+ORD-00853,2024-06-09,Priya Singh,South,Bangalore,Backpack,Accessories,4,1800,7200,4188.32,3011.68,Net Banking
+ORD-00854,2024-10-12,Rohit Tiwari,East,Kolkata,Smartphone,Electronics,5,25000,125000,95622.69,29377.31,Credit Card
+ORD-00855,2024-07-17,Anjali Patel,West,Ahmedabad,Pen Set,Stationery,4,250,1000,629.99,370.01,Net Banking
+ORD-00856,2024-12-29,Anjali Patel,South,Hyderabad,Headphones,Electronics,4,3000,12000,9410.67,2589.33,Net Banking
+ORD-00857,2024-11-11,Karan Mehta,South,Chennai,Notebook,Stationery,1,150,150,94.08,55.92,Debit Card
+ORD-00858,2024-02-27,Vikas Kumar,West,Mumbai,Keyboard,Accessories,5,2500,12500,7946.7,4553.3,Net Banking
+ORD-00859,2024-08-21,Rahul Sharma,West,Mumbai,Pen Set,Stationery,2,250,500,363.16,136.84,UPI
+ORD-00860,2024-09-07,Sneha Joshi,South,Chennai,Headphones,Electronics,5,3000,15000,9303.66,5696.34,Cash
+ORD-00861,2024-11-02,Anjali Patel,South,Bangalore,Desk,Furniture,2,18000,36000,22347.73,13652.27,Cash
+ORD-00862,2025-07-31,Pooja Yadav,South,Hyderabad,Backpack,Accessories,3,1800,5400,4200.55,1199.45,Credit Card
+ORD-00863,2025-12-31,Anjali Patel,North,Delhi,Mouse,Accessories,4,1200,4800,3687.09,1112.91,UPI
+ORD-00864,2025-07-23,Vikas Kumar,South,Bangalore,Keyboard,Accessories,4,2500,10000,6202.03,3797.97,Credit Card
+ORD-00865,2025-11-09,Pooja Yadav,East,Bhubaneswar,Laptop,Electronics,2,60000,120000,78483.08,41516.92,Net Banking
+ORD-00866,2024-05-23,Anjali Patel,North,Jaipur,Office Chair,Furniture,5,12000,60000,38048.98,21951.02,Net Banking
+ORD-00867,2025-11-30,Rahul Sharma,East,Patna,Office Chair,Furniture,1,12000,12000,9045.89,2954.11,Cash
+ORD-00868,2025-10-28,Rahul Sharma,South,Bangalore,Office Chair,Furniture,2,12000,24000,19003.49,4996.51,Cash
+ORD-00869,2025-07-30,Karan Mehta,West,Ahmedabad,Smartphone,Electronics,2,25000,50000,31998.7,18001.3,Credit Card
+ORD-00870,2024-01-18,Neha Gupta,North,Chandigarh,Office Chair,Furniture,4,12000,48000,35370.72,12629.28,Net Banking
+ORD-00871,2025-09-13,Amit Verma,West,Pune,Desk,Furniture,2,18000,36000,22342.04,13657.96,Net Banking
+ORD-00872,2024-09-30,Pooja Yadav,North,Delhi,Headphones,Electronics,2,3000,6000,3984.04,2015.96,UPI
+ORD-00873,2024-09-09,Vikas Kumar,North,Jaipur,Pen Set,Stationery,1,250,250,187.18,62.82,Net Banking
+ORD-00874,2024-03-25,Neha Gupta,East,Bhubaneswar,Desk,Furniture,1,18000,18000,12354.03,5645.97,UPI
+ORD-00875,2025-02-18,Rahul Sharma,North,Delhi,Smartphone,Electronics,4,25000,100000,65515.62,34484.38,Cash
+ORD-00876,2025-07-30,Sneha Joshi,South,Hyderabad,Smartphone,Electronics,4,25000,100000,71739.87,28260.13,Net Banking
+ORD-00877,2025-02-09,Rahul Sharma,North,Chandigarh,Backpack,Accessories,5,1800,9000,6643.97,2356.03,Net Banking
+ORD-00878,2024-12-31,Neha Gupta,South,Chennai,Smartphone,Electronics,2,25000,50000,29296.71,20703.29,Credit Card
+ORD-00879,2025-04-13,Vikas Kumar,West,Ahmedabad,Desk,Furniture,3,18000,54000,33157.26,20842.74,Net Banking
+ORD-00880,2024-08-03,Anjali Patel,West,Ahmedabad,Mouse,Accessories,3,1200,3600,2383.69,1216.31,Credit Card
+ORD-00881,2025-08-22,Priya Singh,North,Delhi,Notebook,Stationery,3,150,450,273.33,176.67,Net Banking
+ORD-00882,2025-01-07,Vikas Kumar,West,Ahmedabad,Desk,Furniture,3,18000,54000,33985.34,20014.66,Credit Card
+ORD-00883,2025-01-19,Karan Mehta,East,Patna,Backpack,Accessories,4,1800,7200,4314.0,2886.0,UPI
+ORD-00884,2025-06-20,Rahul Sharma,West,Mumbai,Smartphone,Electronics,4,25000,100000,76323.8,23676.2,Cash
+ORD-00885,2025-01-15,Pooja Yadav,North,Chandigarh,Backpack,Accessories,5,1800,9000,7180.25,1819.75,Net Banking
+ORD-00886,2024-04-13,Pooja Yadav,North,Delhi,Notebook,Stationery,1,150,150,111.6,38.4,Cash
+ORD-00887,2024-03-30,Neha Gupta,West,Ahmedabad,Office Chair,Furniture,4,12000,48000,38288.45,9711.55,Net Banking
+ORD-00888,2025-06-02,Sneha Joshi,North,Jaipur,Keyboard,Accessories,2,2500,5000,3137.19,1862.81,Cash
+ORD-00889,2025-06-09,Vikas Kumar,East,Bhubaneswar,Office Chair,Furniture,5,12000,60000,40245.42,19754.58,Cash
+ORD-00890,2025-03-24,Pooja Yadav,East,Patna,Office Chair,Furniture,2,12000,24000,17037.12,6962.88,UPI
+ORD-00891,2024-05-02,Pooja Yadav,West,Pune,Keyboard,Accessories,2,2500,5000,3093.44,1906.56,Net Banking
+ORD-00892,2024-11-12,Anjali Patel,East,Patna,Desk,Furniture,3,18000,54000,39363.97,14636.03,Cash
+ORD-00893,2025-06-20,Priya Singh,South,Hyderabad,Backpack,Accessories,5,1800,9000,5331.59,3668.41,Credit Card
+ORD-00894,2024-06-20,Rahul Sharma,East,Patna,Mouse,Accessories,2,1200,2400,1543.78,856.22,Debit Card
+ORD-00895,2024-09-11,Rahul Sharma,South,Hyderabad,Keyboard,Accessories,1,2500,2500,1990.68,509.32,Cash
+ORD-00896,2024-04-05,Pooja Yadav,South,Hyderabad,Office Chair,Furniture,3,12000,36000,20508.58,15491.42,Credit Card
+ORD-00897,2024-07-21,Priya Singh,West,Ahmedabad,Notebook,Stationery,2,150,300,219.49,80.51,Debit Card
+ORD-00898,2024-07-09,Amit Verma,South,Hyderabad,Keyboard,Accessories,5,2500,12500,7033.37,5466.63,Cash
+ORD-00899,2025-01-23,Anjali Patel,East,Patna,Pen Set,Stationery,5,250,1250,786.03,463.97,UPI
+ORD-00900,2024-12-03,Sneha Joshi,West,Ahmedabad,Headphones,Electronics,2,3000,6000,4267.79,1732.21,Debit Card
+ORD-00901,2025-02-22,Sneha Joshi,East,Bhubaneswar,Headphones,Electronics,4,3000,12000,9157.71,2842.29,Debit Card
+ORD-00902,2024-07-16,Amit Verma,North,Jaipur,Notebook,Stationery,4,150,600,395.53,204.47,UPI
+ORD-00903,2025-07-25,Anjali Patel,South,Hyderabad,Mouse,Accessories,1,1200,1200,903.52,296.48,UPI
+ORD-00904,2025-12-02,Rahul Sharma,East,Kolkata,Desk,Furniture,5,18000,90000,70756.73,19243.27,Cash
+ORD-00905,2024-03-18,Pooja Yadav,East,Patna,Smartphone,Electronics,3,25000,75000,48174.9,26825.1,UPI
+ORD-00906,2024-06-22,Rahul Sharma,South,Hyderabad,Smartphone,Electronics,5,25000,125000,74697.21,50302.79,Credit Card
+ORD-00907,2024-12-18,Anjali Patel,West,Mumbai,Smartphone,Electronics,5,25000,125000,86468.68,38531.32,Credit Card
+ORD-00908,2025-10-21,Vikas Kumar,East,Bhubaneswar,Smartphone,Electronics,3,25000,75000,58153.73,16846.27,Net Banking
+ORD-00909,2025-02-01,Pooja Yadav,East,Bhubaneswar,Backpack,Accessories,2,1800,3600,2507.15,1092.85,Credit Card
+ORD-00910,2024-11-21,Vikas Kumar,North,Delhi,Headphones,Electronics,1,3000,3000,1810.68,1189.32,UPI
+ORD-00911,2024-12-17,Sneha Joshi,West,Mumbai,Backpack,Accessories,2,1800,3600,2408.83,1191.17,Cash
+ORD-00912,2025-07-18,Vikas Kumar,West,Ahmedabad,Pen Set,Stationery,1,250,250,149.73,100.27,Cash
+ORD-00913,2024-10-08,Amit Verma,North,Jaipur,Notebook,Stationery,1,150,150,85.14,64.86,Net Banking
+ORD-00914,2025-01-16,Neha Gupta,West,Ahmedabad,Pen Set,Stationery,2,250,500,343.1,156.9,Credit Card
+ORD-00915,2024-05-26,Rohit Tiwari,West,Ahmedabad,Mouse,Accessories,4,1200,4800,3146.5,1653.5,Debit Card
+ORD-00916,2025-01-29,Anjali Patel,North,Delhi,Keyboard,Accessories,4,2500,10000,6162.17,3837.83,Credit Card
+ORD-00917,2025-04-09,Karan Mehta,South,Chennai,Notebook,Stationery,1,150,150,106.67,43.33,Credit Card
+ORD-00918,2024-01-25,Rahul Sharma,West,Mumbai,Keyboard,Accessories,1,2500,2500,1435.33,1064.67,Net Banking
+ORD-00919,2025-09-02,Rahul Sharma,South,Hyderabad,Keyboard,Accessories,2,2500,5000,3897.9,1102.1,Net Banking
+ORD-00920,2025-11-12,Priya Singh,East,Kolkata,Pen Set,Stationery,5,250,1250,950.68,299.32,Credit Card
+ORD-00921,2025-06-04,Neha Gupta,West,Mumbai,Office Chair,Furniture,2,12000,24000,19094.8,4905.2,Cash
+ORD-00922,2025-11-16,Rohit Tiwari,North,Chandigarh,Mouse,Accessories,5,1200,6000,3562.52,2437.48,UPI
+ORD-00923,2025-11-15,Karan Mehta,South,Bangalore,Keyboard,Accessories,2,2500,5000,2802.03,2197.97,Credit Card
+ORD-00924,2025-04-19,Neha Gupta,East,Bhubaneswar,Notebook,Stationery,5,150,750,509.94,240.06,Debit Card
+ORD-00925,2025-03-22,Sneha Joshi,South,Hyderabad,Mouse,Accessories,3,1200,3600,2446.08,1153.92,Cash
+ORD-00926,2025-11-17,Pooja Yadav,South,Hyderabad,Mouse,Accessories,5,1200,6000,4744.11,1255.89,Net Banking
+ORD-00927,2025-07-02,Sneha Joshi,East,Patna,Notebook,Stationery,1,150,150,86.23,63.77,Debit Card
+ORD-00928,2024-12-15,Anjali Patel,North,Jaipur,Smartphone,Electronics,5,25000,125000,94205.72,30794.28,UPI
+ORD-00929,2024-07-30,Vikas Kumar,South,Bangalore,Pen Set,Stationery,5,250,1250,935.78,314.22,Debit Card
+ORD-00930,2024-12-29,Neha Gupta,West,Mumbai,Keyboard,Accessories,5,2500,12500,7000.69,5499.31,Net Banking
+ORD-00931,2024-12-28,Rohit Tiwari,North,Chandigarh,Headphones,Electronics,1,3000,3000,2037.48,962.52,Debit Card
+ORD-00932,2024-02-28,Vikas Kumar,West,Mumbai,Headphones,Electronics,1,3000,3000,1702.83,1297.17,Credit Card
+ORD-00933,2025-09-05,Rohit Tiwari,South,Bangalore,Keyboard,Accessories,4,2500,10000,7804.75,2195.25,Credit Card
+ORD-00934,2024-01-09,Rahul Sharma,East,Patna,Smartphone,Electronics,4,25000,100000,62728.81,37271.19,Cash
+ORD-00935,2024-11-13,Rahul Sharma,West,Mumbai,Laptop,Electronics,5,60000,300000,198438.97,101561.03,Net Banking
+ORD-00936,2024-06-06,Sneha Joshi,North,Chandigarh,Mouse,Accessories,2,1200,2400,1364.25,1035.75,Credit Card
+ORD-00937,2024-05-05,Sneha Joshi,South,Bangalore,Pen Set,Stationery,3,250,750,446.7,303.3,Net Banking
+ORD-00938,2024-11-04,Anjali Patel,North,Jaipur,Headphones,Electronics,3,3000,9000,6800.0,2200.0,Credit Card
+ORD-00939,2025-06-03,Anjali Patel,East,Kolkata,Laptop,Electronics,4,60000,240000,157108.94,82891.06,Cash
+ORD-00940,2024-01-17,Amit Verma,South,Bangalore,Desk,Furniture,4,18000,72000,54660.87,17339.13,Debit Card
+ORD-00941,2025-09-06,Rahul Sharma,West,Pune,Backpack,Accessories,4,1800,7200,4938.23,2261.77,Credit Card
+ORD-00942,2025-05-12,Rahul Sharma,East,Patna,Keyboard,Accessories,5,2500,12500,8056.15,4443.85,UPI
+ORD-00943,2024-04-30,Pooja Yadav,East,Kolkata,Keyboard,Accessories,5,2500,12500,8617.38,3882.62,Credit Card
+ORD-00944,2025-03-14,Rohit Tiwari,East,Bhubaneswar,Office Chair,Furniture,4,12000,48000,26756.22,21243.78,Net Banking
+ORD-00945,2025-03-18,Rahul Sharma,East,Kolkata,Laptop,Electronics,2,60000,120000,77759.21,42240.79,UPI
+ORD-00946,2025-10-04,Neha Gupta,East,Kolkata,Notebook,Stationery,2,150,300,234.12,65.88,Credit Card
+ORD-00947,2025-10-10,Amit Verma,West,Mumbai,Mouse,Accessories,5,1200,6000,3312.82,2687.18,Credit Card
+ORD-00948,2025-07-07,Karan Mehta,West,Ahmedabad,Notebook,Stationery,5,150,750,444.42,305.58,Cash
+ORD-00949,2025-08-08,Priya Singh,West,Mumbai,Laptop,Electronics,1,60000,60000,40213.73,19786.27,Credit Card
+ORD-00950,2024-06-22,Pooja Yadav,West,Pune,Smartphone,Electronics,3,25000,75000,53541.43,21458.57,Cash
+ORD-00951,2025-04-18,Neha Gupta,North,Delhi,Office Chair,Furniture,1,12000,12000,9101.9,2898.1,Credit Card
+ORD-00952,2024-12-07,Rahul Sharma,East,Patna,Headphones,Electronics,4,3000,12000,9486.29,2513.71,Cash
+ORD-00953,2025-06-22,Amit Verma,North,Chandigarh,Backpack,Accessories,5,1800,9000,6489.87,2510.13,Credit Card
+ORD-00954,2024-07-09,Priya Singh,East,Patna,Desk,Furniture,4,18000,72000,53340.88,18659.12,UPI
+ORD-00955,2024-11-28,Anjali Patel,South,Bangalore,Pen Set,Stationery,4,250,1000,619.09,380.91,UPI
+ORD-00956,2025-05-08,Rohit Tiwari,North,Delhi,Smartphone,Electronics,1,25000,25000,17312.77,7687.23,Cash
+ORD-00957,2024-07-12,Karan Mehta,North,Delhi,Mouse,Accessories,4,1200,4800,3335.98,1464.02,Debit Card
+ORD-00958,2024-07-27,Pooja Yadav,West,Pune,Laptop,Electronics,5,60000,300000,177420.47,122579.53,Net Banking
+ORD-00959,2024-03-08,Neha Gupta,North,Jaipur,Headphones,Electronics,2,3000,6000,3400.54,2599.46,UPI
+ORD-00960,2025-09-12,Priya Singh,East,Patna,Desk,Furniture,3,18000,54000,30830.61,23169.39,Debit Card
+ORD-00961,2024-12-07,Neha Gupta,North,Delhi,Keyboard,Accessories,3,2500,7500,4475.27,3024.73,Debit Card
+ORD-00962,2024-08-08,Amit Verma,East,Patna,Headphones,Electronics,1,3000,3000,1691.11,1308.89,UPI
+ORD-00963,2025-12-04,Karan Mehta,South,Chennai,Keyboard,Accessories,1,2500,2500,1570.6,929.4,Cash
+ORD-00964,2025-09-16,Pooja Yadav,East,Kolkata,Keyboard,Accessories,1,2500,2500,1458.27,1041.73,UPI
+ORD-00965,2025-12-06,Priya Singh,North,Jaipur,Pen Set,Stationery,5,250,1250,929.56,320.44,Cash
+ORD-00966,2025-08-12,Vikas Kumar,North,Delhi,Desk,Furniture,4,18000,72000,45316.32,26683.68,Credit Card
+ORD-00967,2024-12-20,Rahul Sharma,West,Mumbai,Smartphone,Electronics,2,25000,50000,35576.36,14423.64,UPI
+ORD-00968,2025-03-07,Anjali Patel,West,Pune,Headphones,Electronics,4,3000,12000,8001.4,3998.6,Credit Card
+ORD-00969,2024-11-06,Sneha Joshi,West,Pune,Backpack,Accessories,5,1800,9000,5431.97,3568.03,Cash
+ORD-00970,2024-08-21,Anjali Patel,South,Bangalore,Keyboard,Accessories,4,2500,10000,5678.9,4321.1,Cash
+ORD-00971,2024-05-16,Neha Gupta,West,Pune,Mouse,Accessories,1,1200,1200,870.89,329.11,UPI
+ORD-00972,2024-04-06,Pooja Yadav,East,Patna,Notebook,Stationery,4,150,600,394.08,205.92,Debit Card
+ORD-00973,2025-05-08,Pooja Yadav,West,Pune,Notebook,Stationery,3,150,450,352.59,97.41,Debit Card
+ORD-00974,2025-09-01,Pooja Yadav,North,Chandigarh,Desk,Furniture,2,18000,36000,21296.88,14703.12,Cash
+ORD-00975,2024-12-18,Rohit Tiwari,North,Chandigarh,Pen Set,Stationery,2,250,500,353.5,146.5,Cash
+ORD-00976,2025-01-07,Rahul Sharma,West,Pune,Backpack,Accessories,1,1800,1800,1013.46,786.54,UPI
+ORD-00977,2024-03-27,Anjali Patel,East,Patna,Notebook,Stationery,2,150,300,191.25,108.75,Debit Card
+ORD-00978,2024-04-05,Neha Gupta,South,Chennai,Smartphone,Electronics,5,25000,125000,84985.12,40014.88,Net Banking
+ORD-00979,2025-02-20,Pooja Yadav,North,Delhi,Office Chair,Furniture,2,12000,24000,19146.19,4853.81,UPI
+ORD-00980,2024-10-31,Neha Gupta,North,Chandigarh,Smartphone,Electronics,2,25000,50000,33714.62,16285.38,Debit Card
+ORD-00981,2025-02-13,Anjali Patel,West,Mumbai,Backpack,Accessories,2,1800,3600,2465.33,1134.67,Cash
+ORD-00982,2024-08-08,Vikas Kumar,North,Chandigarh,Keyboard,Accessories,5,2500,12500,6891.34,5608.66,Debit Card
+ORD-00983,2025-03-02,Karan Mehta,East,Kolkata,Smartphone,Electronics,3,25000,75000,58281.46,16718.54,Cash
+ORD-00984,2024-06-28,Karan Mehta,East,Kolkata,Headphones,Electronics,4,3000,12000,7974.19,4025.81,UPI
+ORD-00985,2025-04-09,Neha Gupta,West,Mumbai,Office Chair,Furniture,4,12000,48000,27328.06,20671.94,UPI
+ORD-00986,2024-06-19,Priya Singh,East,Bhubaneswar,Notebook,Stationery,5,150,750,533.82,216.18,Debit Card
+ORD-00987,2025-07-22,Karan Mehta,North,Delhi,Pen Set,Stationery,3,250,750,544.84,205.16,Net Banking
+ORD-00988,2025-11-17,Sneha Joshi,West,Pune,Headphones,Electronics,5,3000,15000,9682.52,5317.48,Cash
+ORD-00989,2025-11-03,Rahul Sharma,North,Chandigarh,Headphones,Electronics,1,3000,3000,2247.51,752.49,Debit Card
+ORD-00990,2025-10-08,Anjali Patel,North,Delhi,Desk,Furniture,5,18000,90000,52527.61,37472.39,Credit Card
+ORD-00991,2025-02-13,Priya Singh,North,Jaipur,Backpack,Accessories,3,1800,5400,3301.04,2098.96,Credit Card
+ORD-00992,2025-10-16,Neha Gupta,East,Kolkata,Smartphone,Electronics,5,25000,125000,72199.99,52800.01,UPI
+ORD-00993,2024-10-22,Pooja Yadav,West,Mumbai,Headphones,Electronics,2,3000,6000,3517.62,2482.38,Net Banking
+ORD-00994,2025-05-18,Neha Gupta,North,Chandigarh,Notebook,Stationery,4,150,600,412.94,187.06,Cash
+ORD-00995,2024-06-09,Karan Mehta,South,Chennai,Notebook,Stationery,5,150,750,505.18,244.82,Debit Card
+ORD-00996,2025-05-14,Rohit Tiwari,East,Kolkata,Notebook,Stationery,1,150,150,104.66,45.34,Cash
+ORD-00997,2025-05-23,Vikas Kumar,South,Chennai,Notebook,Stationery,1,150,150,89.12,60.88,Cash
+ORD-00998,2024-08-05,Amit Verma,South,Chennai,Desk,Furniture,5,18000,90000,68189.82,21810.18,Net Banking
+ORD-00999,2025-12-17,Neha Gupta,North,Jaipur,Notebook,Stationery,2,150,300,222.05,77.95,Debit Card
+ORD-01000,2025-11-18,Amit Verma,East,Bhubaneswar,Pen Set,Stationery,5,250,1250,788.42,461.58,UPI
