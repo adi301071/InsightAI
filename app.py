@@ -4,7 +4,7 @@ import plotly.express as px
 import os
 
 from src.gemini_ai import ask_gemini
-from src.db_connection import load_data_from_mysql
+#from src.db_connection import load_data_from_mysql
 from src.forecasting import create_sales_forecast
 
 # Page configuration
@@ -15,7 +15,7 @@ st.set_page_config(
 )
 
 # Load dataset from MySQL
-df = load_data_from_mysql()
+df = pd.read_csv("data/sales_data.csv")
 
 # Convert date
 df["Order_Date"] = pd.to_datetime(df["Order_Date"])
