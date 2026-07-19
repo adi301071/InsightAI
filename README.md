@@ -288,3 +288,7 @@ Dashboard Development
 
 Business Intelligence
 
+## 📸 Dashboard Preview
+
+![InsightAI Dashboard](dashboard.png)
+
