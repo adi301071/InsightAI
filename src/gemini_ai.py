@@ -1,6 +1,7 @@
 import os
 from dotenv import load_dotenv
 from google import genai
+from google.genai import errors
 
 # Load environment variables
 load_dotenv()
@@ -32,11 +33,14 @@ If the data is not sufficient to answer the question, say so clearly.
 
     try:
         response = client.models.generate_content(
-            model="gemini-2.5-flash",
+            model="gemini-2.5-flash-lite",
             contents=prompt
         )
 
         return response.text
 
+    except errors.ClientError as e:
+        return f"Gemini API Error: {e}"
+
     except Exception as e:
-        return f"Gemini API Error: {str(e)}"
+        return f"Unexpected Error: {e}"
