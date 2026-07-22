@@ -30,9 +30,13 @@ Give a clear, professional answer.
 If the data is not sufficient to answer the question, say so clearly.
 """
 
-    response = client.models.generate_content(
-        model="gemini-3.5-flash",
-        contents=prompt
-    )
+    try:
+        response = client.models.generate_content(
+            model="gemini-2.5-flash",
+            contents=prompt
+        )
 
-    return response.text
+        return response.text
+
+    except Exception as e:
+        return f"Gemini API Error: {str(e)}"
